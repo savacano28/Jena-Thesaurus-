@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="KotlinJavaRuntime" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../apache-jena-3.6.0/apache-jena-3.6.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.ideaLibSources/jena-arq-3.6.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/.ideaLibSources/httpclient-4.5.3-sources.jar!/" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../../apache-jena-3.6.0/apache-jena-3.6.0/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="jena-3.6.0" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/apache-jena-osgi/jena-osgi-test/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/apache-jena-osgi/jena-osgi/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-arq/src-examples" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-arq/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-arq/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-base/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-base/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-cmds/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-cmds/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-core/src-examples" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-core/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-core/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-csv/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-csv/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-db/jena-dboe-base/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-db/jena-dboe-base/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-db/jena-dboe-index-test/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-db/jena-dboe-index/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-db/jena-dboe-trans-data/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-db/jena-dboe-trans-data/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-db/jena-dboe-transaction/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-db/jena-dboe-transaction/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-db/jena-tdb2/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-db/jena-tdb2/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-elephas/jena-elephas-common/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-elephas/jena-elephas-common/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-elephas/jena-elephas-io/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-elephas/jena-elephas-io/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-elephas/jena-elephas-mapreduce/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-elephas/jena-elephas-mapreduce/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-elephas/jena-elephas-stats/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-examples/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-examples/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-extras/jena-querybuilder/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-extras/jena-querybuilder/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-fuseki1/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-fuseki1/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-fuseki2/jena-fuseki-basic/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-fuseki2/jena-fuseki-core/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-fuseki2/jena-fuseki-core/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-fuseki2/jena-fuseki-embedded/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-fuseki2/jena-fuseki-embedded/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-integration-tests/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-iri/src-dev" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-iri/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-iri/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-jdbc/jena-jdbc-core/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-jdbc/jena-jdbc-core/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-jdbc/jena-jdbc-driver-bundle/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-jdbc/jena-jdbc-driver-mem/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-jdbc/jena-jdbc-driver-mem/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-jdbc/jena-jdbc-driver-remote/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-jdbc/jena-jdbc-driver-remote/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-jdbc/jena-jdbc-driver-tdb/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-jdbc/jena-jdbc-driver-tdb/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-maven-tools/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-maven-tools/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-permissions/src/example/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-permissions/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-permissions/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-rdfconnection/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-rdfconnection/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-sdb/src-examples" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-sdb/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-sdb/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-spatial/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-spatial/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-tdb/src-examples" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-tdb/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-tdb/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-text-es/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-text-es/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-text/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../jena-3.6.0-source-release/jena-3.6.0/jena-text/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="jena-lib" level="project" />
+    <orderEntry type="library" name="lib-src" level="project" />
+  </component>
+</module>

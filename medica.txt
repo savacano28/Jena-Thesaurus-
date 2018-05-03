@@ -1,0 +1,4251 @@
+Acide salicylique
+Valproate de sodium
+Bétaméthasone
+Atorvastatine
+Indapamide
+Fenticonazole nitrate
+Fentanyl
+Métoprolol tartrate
+Lercanidipine chlorhydrate
+Phénobarbital
+Métronidazole
+Posaconazole
+Peroxyde de benzoyle
+Tobramycine
+Déférasirox
+Aténolol
+Altizide
+Latanoprost
+Estradiol valérate
+Adrénaline
+Raloxifène chlorhydrate
+Rimexolone
+Metformine chlorhydrate
+Acide acétylsalicylique
+Triamcinolone acétonide
+Adénosine
+Clomipramine chlorhydrate
+Cobalt 
+Ciclopirox olamine
+Morphine sulfate
+Mésalazine
+Métoclopramide chlorhydrate
+Tioconazole
+Théophylline
+Ribavirine
+Fluticasone propionate
+Éconazole nitrate
+Olopatadine (chlorhydrate)
+Léflunomide
+Vancomycine (chlorhydrate)
+Oxycodone chlorhydrate
+Dactinomycine
+Lincomycine (chlorhydrate)
+Fumagilline
+Galantamine (bromhydrate)
+Magnésium chlorure
+Terbutaline sulfate
+Somatoréline (acétate)
+Rivastigmine (hydrogénotartrate)
+Baclofène
+Didanosine
+Cidofovir
+Céfamandole (nafate)
+Oxétorone fumarate
+Fluorométholone
+Quinine-urée dichlorhydrate
+Amlodipine (bésilate)
+Amphotéricine B
+Amikacine (sulfate)
+Vérapamil chlorhydrate
+Loxapine (succinate)
+Bétaméthasone (dipropionate)
+Acide ascorbique sel de Ca
+Entécavir
+Céfuroxime (sel de Na)
+Glucose phosphate disodique
+Fénofibrate
+Pyridoxine chlorhydrate
+Pilocarpine nitrate
+Trandolapril
+Stavudine
+Erlotinib (chlorhydrate)
+Énoxolone
+Ceftazidime
+Olsalazine sodique
+Méthotrexate
+Isoniazide
+Vérapamil chlorhydrate
+Répaglinide
+Ibuprofène
+Fluphénazine décanoate
+Calcium (carbonate)
+Pipotiazine
+Erdostéine
+Dipyridamole
+Mépivacaïne chlorhydrate
+Hydrocortisone
+Cyprotérone acétate
+Streptomycine (sulfate)
+Naphazoline nitrate
+Miansérine chlorhydrate
+Flécaïnide acétate
+Dexaméthasone phosphate (sodique)
+Salbutamol (sulfate)
+Propranolol chlorhydrate
+Timolol (maléate)
+Streptozocine
+Acide tranexamique
+Acide acétylsalicylique
+Clobazam
+Kétoconazole
+Ichthyolammonium
+Emtricitabine
+Diméticone
+Iproniazide (phosphate)
+Nordazépam
+Métronidazole
+Métopimazine
+Prazépam
+Paracétamol
+Nitrendipine
+Sodium tétradécyl sulfate
+Tianeptine sodique
+Acide ascorbique
+Clobazam
+Buprénorphine (chlorhydrate)
+Estradiol
+Dihydroergotoxine mésilate
+Lévothyroxine sodique
+Kétotifène (fumarate)
+Glimépiride
+Ranitidine (chlorhydrate)
+Piméthixène
+Potassium chlorure
+Acide cromoglicique sel de Na
+Ertapénem (sodique)
+Cloxacilline (sodique)
+Ifenprodil tartrate
+Potassium (gluconate)
+Ofloxacine
+Exémestane
+Sertaconazole nitrate
+Racécadotril
+Acide ascorbique
+Bipéridène chlorhydrate
+Anakinra
+Alprostadil
+Glucose
+Trimipramine (maléate)
+Lénalidomide
+Atorvastatine (calcique)
+Acide salicylique
+Calcium (carbonate)
+Estradiol
+Darunavir (éthanolate)
+Cilastatine (sodique)
+Guaïétoline
+Flécaïnide acétate
+Néfopam chlorhydrate
+Magnésium (pidolate)
+Candésartan cilexétil
+Capécitabine
+Acide clavulanique (sel de K)
+Desloratadine
+Cétrimide
+Zidovudine
+Rispéridone
+Magnésium (glycérophosphate)
+Benzododécinium bromure
+Lénalidomide
+Oséltamivir (phosphate)
+Olmésartan médoxomil
+Nicotine
+Stiripentol
+Piribédil
+Fentanyl
+Ésoméprazole (magnésium)
+Almotriptan (D-L hydrogénomalate)
+Rifampicine
+Téicoplanine
+Ézétimibe
+Carpipramine (dichlorhydrate)
+Buprénorphine (chlorhydrate)
+Bétaméthasone
+Évérolimus
+Diméticone
+Carbomère
+Oxcarbazépine
+Oméprazole
+Nicergoline
+Acétazolamide
+Povidone iodée
+Prazépam
+Amikacine (sulfate)
+Trétinoïne
+Lévomépromazine (maléate)
+Évérolimus
+Céfépime (chlorhydrate)
+Alfacalcidol
+Naftazone
+Josamycine (propionate)
+Ciprofloxacine (chlorhydrate)
+Povidone iodée
+Nitrofurantoïne
+Témozolomide
+Simvastatine
+Acide acétylsalicylique
+Ambroxol chlorhydrate
+Trinitrine
+Amoxicilline (sodique)
+Alizapride (chlorhydrate)
+Lansoprazole
+Fluorescéine sodique
+Ciprofloxacine
+Dihydroergotamine mésilate
+Diltiazem chlorhydrate
+Prométhazine
+Phosphate monosodique
+Sulfasalazine
+Sodium chlorure
+Terbutaline sulfate
+Thalidomide
+Acide acexamique sel de Na
+Vertéporfine
+Vindésine sulfate
+Alprazolam
+Cimétidine
+Bensérazide (chlorhydrate)
+Cyanocobalamine
+Acide folinique (sel de calcium)
+Flunitrazépam
+Fluor (fluorure de sodium)
+Névirapine
+Méthyldopa
+Lévothyroxine sodique
+Sulfaméthoxazole
+Sertaconazole nitrate
+Oxaliplatine
+Zolmitriptan
+Spiramycine
+Isoconazole nitrate
+Hydrocortisone acéponate
+Glucose
+Pilocarpine chlorhydrate
+Minocycline (chlorhydrate)
+Testostérone
+Sodium chlorure
+Bumétanide
+Acide salicylique
+Acide borique
+Fentanyl
+Calcium (carbonate)
+Méthadone chlorhydrate
+Fosfomycine (trométamol)
+Nystatine
+Morphine sulfate
+Midodrine chlorhydrate
+Rispéridone
+Prednisone
+Nimésulide
+Kétotifène (fumarate)
+Glycérol
+Testostérone undécanoate
+Quinine (chlorhydrate)
+Nicotine (tartrate)
+Acide fusidique
+Bétaméthasone (valérate)
+Acide salicylique
+Épirubicine chlorhydrate
+Clarithromycine
+Idarubicine chlorhydrate
+Halopéridol
+Carbidopa
+Rifamycine sodique
+Lidocaïne chlorhydrate
+Acide azélaïque
+Calcium (carbonate)
+Bensérazide (chlorhydrate)
+Anastrozole
+Étonogestrel
+Fénofibrate
+Diclofénac (épolamine)
+Nicardipine chlorhydrate
+Irbésartan
+Pindolol
+Piroxicam
+Oxycodone chlorhydrate
+Ténofovir disoproxil (fumarate)
+Scopolamine
+Progestérone
+Alprazolam
+Altrétamine
+Bicarbonate de sodium
+Caféine
+Atovaquone
+Diltiazem chlorhydrate
+Clorazépate dipotassique
+Labétalol chlorhydrate
+Glipizide
+Probénécide
+Paracétamol
+Indinavir (sulfate)
+Acide acétylsalicylique
+Tioconazole
+Adrénaline (tartrate)
+Lévothyroxine sodique
+Prégabaline
+Codéine phosphate
+Phénoxyméthylpénicilline (benzathine lécithinée)
+Zinc (gluconate)
+Tramadol chlorhydrate
+Sulfadiazine argentique
+Acide fusidique sel de Na
+Acéclofénac
+Péfloxacine (mésilate)
+Ornidazole
+Béclométasone dipropionate
+Benzathine benzylpénicilline
+Acide tiaprofénique
+Éthylmorphine chlorhydrate
+Céfuroxime (axétil)
+Morphine sulfate
+Mycophénolate mofétil
+Glucose
+Testostérone
+Procarbazine (chlorhydrate)
+Flurbiprofène
+Ceftriaxone (sodique)
+Azithromycine
+Témazépam
+Spironolactone
+Morphine sulfate
+Dihydroergocristine mésilate
+Méthadone chlorhydrate
+Lamivudine
+Kaolin lourd
+Nilutamide
+Olanzapine
+Néomycine sulfate
+Sodium phénylbutyrate
+Pramocaïne chlorhydrate
+Amikacine (sulfate)
+Fondaparinux sodique
+Dexaméthasone
+Mesna
+Hydroxyéthylamidon
+Ramipril
+Miconazole
+Desmopressine acétate
+Cimétidine
+Magnésium (sulfate)
+Lévétiracétam
+Isoflurane
+Racécadotril
+Nicotine (catiorésine carboxylate)
+Érythromycine
+Bendrofluméthiazide
+Lévétiracétam
+Naproxène sel de Na
+Lopinavir
+Méprobamate
+Oxcarbazépine
+Mupirocine (calcique)
+Ropivacaïne chlorhydrate
+Salmétérol (xinafoate)
+Riboflavine
+Triclabendazole
+Trimétazidine dichlorhydrate
+Kétoprofène
+Carbidopa
+Rétinol palmitate
+Prazosine (chlorhydrate)
+Acébutolol (chlorhydrate)
+Tacrolimus
+Heptaminol adénosine phosphate
+Fentanyl (citrate)
+Candésartan cilexétil
+Mivacurium (chlorure)
+Lévothyroxine sodique
+Tériparatide
+Nicotine
+Nitisinone
+Chlorhexidine gluconate
+Imipramine chlorhydrate
+Idarubicine chlorhydrate
+Acide folinique (sel de calcium)
+Périndopril tert-butylamine
+Minocycline (chlorhydrate)
+Acide folique
+Pravastatine sodique
+Bisoprolol hémifumarate
+Bétaméthasone (valérate)
+Hydrochlorothiazide
+Estradiol
+Carbamazépine
+Pinavérium bromure
+Magnésium (gluconate)
+Lamotrigine
+Acide acétylsalicylique
+Zuclopenthixol (dichlorhydrate)
+Métopimazine
+Abacavir (sulfate)
+Méthoxsalène
+Céfotaxime (sel de Na)
+Valproate de sodium
+Glycérol
+Gemcitabine (chlorhydrate)
+Chlortalidone
+Maprotiline chlorhydrate
+Oxazépam
+Thiamine chlorhydrate
+Tacalcitol
+Pentoxyvérine citrate
+Acétylcystéine
+Trospium chlorure
+Tiratricol
+Lopéramide oxyde
+Éthambutol chlorhydrate
+Chloroquine (sulfate)
+Trétinoïne
+Trimébutine
+Acide ascorbique
+Diosmine
+Colécalciférol
+Calcium (phosphate)
+Acide acétylsalicylique (sel de lysine)
+Nimésulide
+Moclobémide
+Cellulase
+Béclométasone dipropionate
+Méthoxsalène
+Métronidazole
+Donépézil chlorhydrate
+Sufentanil (citrate)
+Nicergoline
+Dexaméthasone phosphate (sodique)
+Acide ascorbique
+Vancomycine (chlorhydrate)
+Donépézil chlorhydrate
+Chlorhexidine gluconate
+Acide ibandronique (sel monosodique)
+Oxycodone chlorhydrate
+Méthylphénidate chlorhydrate
+Éplérénone
+Pipampérone (dichlorhydrate)
+Pipéracilline (sodique)
+Ornidazole
+Zidovudine
+Triamcinolone acétonide
+Tazarotène
+Céfalexine
+Budésonide
+Acide dimécrotique sel de Mg
+Chloroquine (phosphate)
+Carbomère
+Lévocarnitine
+Esdépalléthrine
+Estradiol
+Cobalt (gluconate)
+Méloxicam
+Prednisolone (m-sulfobenzoate sel de Na)
+Morphine sulfate
+Méthylprednisolone
+Aciclovir
+Tramadol chlorhydrate
+Rispéridone
+Baclofène
+Vérapamil chlorhydrate
+Rifamycine sodique
+Acide folinique (sel de calcium)
+Céfaclor
+Calcipotriol
+Morphine chlorhydrate
+Fulvestrant
+Érythromycine (éthylsuccinate)
+Céfixime
+Adénosine
+Fluvoxamine maléate
+Omoconazole nitrate
+Lidocaïne chlorhydrate
+Acébutolol (chlorhydrate)
+Acénocoumarol
+Oxomémazine
+Doxépine (chlorhydrate)
+Morniflumate
+Méthylergométrine maléate
+Fluorescéine sodique
+Quinagolide (chlorhydrate)
+Ropinirole (chlorhydrate)
+Captopril
+Carbamazépine
+Ipratropium bromure
+Calcium gluceptate
+Sucralfate
+Phényléphrine chlorhydrate
+Colécalciférol
+Dacarbazine
+Emtricitabine
+Propofol
+Méthyle aminolévulinate (chlorhydrate)
+Lévocétirizine dichlorhydrate
+Acétylcystéine
+Testostérone
+Théophylline
+Pantoprazole (sel de Na)
+Évérolimus
+Trimébutine maléate
+Primidone
+Phénoxyméthylpénicilline (benzathine lécithinée)
+Ambénonium chlorure
+Cétirizine dichlorhydrate
+Carbomère
+Benzalkonium chlorure
+Cyanocobalamine
+Cinacalcet (chlorhydrate)
+Diclofénac épolamine
+Diéthylcarbamazine (citrate)
+Diazépam
+Métronidazole
+Létrozole
+Étidronate disodique
+Tamoxifène (citrate)
+Piroxicam
+Acide cromoglicique sel de Na
+Acide ascorbique
+Carbocistéine
+Arginine aspartate
+Heptaminol chlorhydrate
+Disopyramide (phosphate)
+Loxapine (succinate)
+Magnésium (lactate)
+Lactulose
+Néomycine sulfate
+Nicotinamide
+Milnacipran chlorhydrate
+Vinorelbine (ditartrate)
+Streptokinase
+Atropine sulfate
+Hydrocortisone
+Doxycycline (hyclate)
+Progestérone
+Paracétamol
+Nicotine
+Tipranavir
+Tiagabine (chlorhydrate)
+Saquinavir (mésilate)
+Acétylcystéine
+Zofénopril calcique
+Bétaxolol chlorhydrate
+Venlafaxine (chlorhydrate)
+Sunitinib (malate)
+Pyridoxine chlorhydrate
+P-aminosalicylate de sodium
+Acide salicylique
+Anagrélide (chlorhydrate)
+Atazanavir (sulfate)
+Diltiazem chlorhydrate
+Aprépitant
+Glucose
+Aciclovir
+Topiramate
+Témozolomide
+Cefpodoxime (proxétil)
+Acide clodronique sel disodique
+Fructose
+Galantamine (bromhydrate)
+Morphine sulfate
+Magnésium sulfate
+Pimozide
+Oxybutynine chlorhydrate
+Nilutamide
+Venlafaxine (chlorhydrate)
+Tadalafil
+Rémifentanil (chlorhydrate)
+Céfuroxime (axétil)
+Rispéridone
+Moxonidine
+Minoxidil
+Chlorhexidine gluconate
+Chlorpromazine (chlorhydrate)
+Aminophylline
+Famotidine
+Dexaméthasone acétate
+Kétoprofène
+Spironolactone
+Prazépam
+Fexofénadine chlorhydrate
+Métronidazole
+Fluticasone propionate
+Oxybuprocaïne chlorhydrate
+Codéine phosphate
+Phénobarbital (sodique)
+Sumatriptan
+Sélénium sulfure
+Propériciazine
+Acide pamidronique sel disodique
+Acitrétine
+Calcium (phosphate)
+Benzalkonium chlorure
+Fer (sodium ferédétate)
+Dextrométhorphane bromhydrate
+Colécalciférol
+Pipotiazine
+Glatiramère acétate
+Triptoréline (embonate)
+Tétracosactide
+Pipampérone (dichlorhydrate)
+Fentanyl (citrate)
+Étoposide
+Cinchocaïne chlorhydrate
+Lithium carbonate
+Promégestone
+Paracétamol
+Miglitol
+Difluprednate
+Cyclophosphamide
+Bisoprolol hémifumarate
+Trinitrine
+Mannitol
+Linézolide
+Éosine disodique
+Dinoprostone
+Atazanavir (sulfate)
+Flurbiprofène
+Raltégravir (potassique)
+Phénol
+Phénol
+Ropivacaïne chlorhydrate
+Acide ibandronique (sel monosodique)
+Cystéine chlorhydrate
+Calcium (carbonate)
+Calcium carbonate
+Hydrochlorothiazide
+Fer (sulfate ferreux)
+Déméclocycline (chlorhydrate)
+Thiocolchicoside
+Piroxicam (bétadex)
+Paracétamol
+Urapidil
+Tinidazole
+Diazépam
+Bicalutamide
+Kétoprofène
+Digoxine
+Méthylprednisolone
+Loratadine
+Lamivudine
+Zinc (gluconate)
+Rifampicine (sel de Na)
+Acide clavulanique (sel de K)
+Élétriptan (bromhydrate)
+Dextrométhorphane bromhydrate
+Cétirizine dichlorhydrate
+Ondansétron
+Magnésium (gluconate)
+Lidocaïne chlorhydrate
+Triclocarban
+Prégabaline
+Procaïne chlorhydrate
+Acide ascorbique
+Lévomépromazine (maléate)
+Ciprofloxacine
+Povidone iodée
+Péfloxacine (mésilate)
+Oxiconazole (nitrate)
+Tirofiban (chlorhydrate)
+Propranolol chlorhydrate
+Diclofénac sodique
+Clonazépam
+Carbamazépine
+Josamycine
+Ropivacaïne chlorhydrate
+Pilocarpine chlorhydrate
+Mivacurium (chlorure)
+Diclofénac sodique
+Trétinoïne
+Acide niflumique
+Caféine
+Adrénaline (tartrate)
+Fondaparinux sodique
+Métronidazole
+Josamycine (propionate)
+Rémifentanil (chlorhydrate)
+Propériciazine
+Pegvisomant
+Tramadol chlorhydrate
+Tréprostinil (sodique)
+Soufre (sodium thiosulfate)
+Dosulépine chlorhydrate
+Budésonide
+Zuclopenthixol (dichlorhydrate)
+Oméprazole (sodique)
+Glucagon (chlorhydrate)
+Bisoprolol hémifumarate
+Méthylprednisolone (hémisuccinate)
+Flunarizine (dichlorhydrate)
+Fénofibrate
+Octréotide (acétate)
+Naloxone chlorhydrate
+Sodium chlorure
+Solifénacine succinate
+Sulpiride
+Granisétron (chlorhydrate)
+Efavirenz
+Diacéréine
+Médroxyprogestérone acétate
+Ibuprofène
+Sulprostone
+Quinine (chlorhydrate)
+Nicotinamide
+Fentanyl
+Fluorouracil
+Calcium (carbonate)
+Phloroglucinol
+Inosine monophosphate disodique
+Amisulpride
+Acide clodronique sel disodique
+Chlorobutanol
+Hydrocortisone butyrate
+Fosamprénavir calcique
+Ergocalciférol
+Ranitidine (chlorhydrate)
+Dompéridone
+Anétholtrithione
+Sulfaméthoxazole
+Rivastigmine (hydrogénotartrate)
+Rocuronium bromure
+Atropine sulfate
+Codéine (phosphate)
+Bromocriptine (mésilate)
+Griséofulvine
+Étiléfrine chlorhydrate
+Dasatinib
+Méquitazine
+Indapamide
+Pentamidine isétionate
+Acide acétylsalicylique (sel de lysine)
+Toltérodine L-tartrate
+Alfentanil (chlorhydrate)
+Acide fusidique
+Diazépam
+Carbidopa
+Finastéride
+Ondansétron (chlorhydrate)
+Méthyclothiazide
+Macrogol
+Aluminium hydroxyde
+Alvérine citrate
+Acide salicylique
+Chlorhexidine gluconate
+Calcium (carbonate)
+Amlodipine (bésilate)
+Dompéridone
+Dexpanthénol
+Codéine phosphate
+Isoprénaline chlorhydrate
+Vérapamil chlorhydrate
+Nitrendipine
+Cyamémazine (tartrate)
+Cilazapril
+Pégaptanib (sodique)
+Ifosfamide
+Galantamine (bromhydrate)
+Rivastigmine (hydrogénotartrate)
+Désonide
+Amiodarone chlorhydrate
+Magnésium carbonate
+Hexamidine di-isétionate
+Étifoxine chlorhydrate
+Venlafaxine (chlorhydrate)
+Secnidazole
+Pantoprazole (sel de Na)
+Alfuzosine chlorhydrate
+Bifonazole
+Amyléine chlorhydrate
+Paracétamol
+Lévothyroxine sodique
+Kétoprofène
+Pizotifène (malate)
+Naproxène sel de Na
+Griséofulvine
+Estradiol
+Ramipril
+Cétrorélix (acétate)
+Bensérazide (chlorhydrate)
+Furosémide
+Érythromycine
+Oxiconazole (nitrate)
+Nébivolol (chlorhydrate)
+Tosylchloramide sodique
+Rispéridone
+Acide acétylsalicylique (sel de lysine)
+Acide acétylsalicylique
+Acide ascorbique
+Bétaméthasone valérate
+Arginine aspartate
+Azathioprine
+Bambutérol chlorhydrate
+Povidone iodée
+Lansoprazole
+Ciprofloxacine (chlorhydrate)
+Carbocistéine
+Desmopressine (acétate)
+Androstanolone
+Fer (oxyde nanoparticules superparamagnétiques)
+Ciprofloxacine (chlorhydrate)
+Mésalazine
+Caféine
+Phénytoïne sodique
+Carbomère
+Doxycycline
+Ébastine
+Mésalazine
+Josamycine (propionate)
+Atropine sulfate
+Alfacalcidol
+Fer (fumarate ferreux)
+Clomipramine chlorhydrate
+Bétaméthasone (phosphate disodique)
+Maprotiline chlorhydrate
+Lévonorgestrel
+Goséréline (acétate)
+Vérapamil chlorhydrate
+Lopéramide chlorhydrate
+Acide fusidique
+Acide ibandronique (sel monosodique)
+Acide benzoïque
+Dexpanthénol
+Colistiméthate sodique
+Acide succinique
+Épinastine chlorhydrate
+Loméfloxacine (chlorhydrate)
+Granisétron (chlorhydrate)
+Clindamycine (chlorhydrate)
+Adrénaline (tartrate)
+Hydroxycarbamide
+Ergocalciférol
+Urapidil
+Propranolol chlorhydrate
+Acide tranexamique
+Adrénaline (tartrate)
+Arginine glutamate
+Flécaïnide acétate
+Cérium nitrate
+Macrogol
+Indoramine (chlorhydrate)
+Hexétidine
+Mycophénolate mofétil (chlorhydrate)
+Mésalazine
+Loratadine
+Parécoxib (sodique)
+Phénothrine
+Amlodipine (bésilate)
+Calcium (carbonate)
+Benzathine benzylpénicilline
+Léflunomide
+Hydrochlorothiazide
+Hydrochlorothiazide
+Midécamycine acétate
+Lanthane (carbonate)
+Ornidazole
+Topotécane (chlorhydrate)
+Tramadol chlorhydrate
+Allopurinol
+Carvédilol
+Budésonide
+Arginine chlorhydrate
+Cladribine
+Ceftriaxone (sodique)
+Nélarabine
+Lacidipine
+Fluor (fluorure de sodium)
+Vinorelbine (ditartrate)
+Stiripentol
+Pyriméthamine
+Diclofénac sodique
+Clofazimine
+Lansoprazole
+Potassium chlorure
+Varénicline (tartrate)
+Téicoplanine
+Acide clavulanique (sel de K)
+Clobazam
+Colistiméthate sodique
+Diazépam
+Nifédipine
+Tramadol chlorhydrate
+Thiotépa
+Sulindac
+Acétylcystéine
+Voriconazole
+Zidovudine
+Anétholtrithione
+Glipizide
+Isoniazide
+Hydroxychloroquine sulfate
+Acarbose
+Prazosine (chlorhydrate)
+Prégabaline
+Captopril
+Benzathine benzylpénicilline
+Atropine sulfate
+Diosmine
+Médroxyprogestérone acétate
+Évérolimus
+Épirubicine chlorhydrate
+Morphine chlorhydrate
+Naproxène
+Calcium (carbonate)
+Captodiame chlorhydrate
+Isosorbide dinitrate
+Isotrétinoïne
+Didanosine
+Prednisolone (m-sulfobenzoate sel de Na)
+Pristinamycine
+Triptoréline (embonate)
+Zuclopenthixol décanoate
+Butacaïne
+Acide tiaprofénique
+Gliclazide
+Carbachol
+Naproxène
+Lorazépam
+Stavudine
+Raltitrexed
+Nitrofurantoïne
+Azathioprine
+Ciprofloxacine (chlorhydrate)
+Candésartan cilexétil
+Diltiazem chlorhydrate
+Tamsulosine chlorhydrate
+Névirapine
+Didanosine
+Céthexonium bromure
+Tirofiban (chlorhydrate)
+Magnésium hydroxyde
+Baclofène
+Bupivacaïne chlorhydrate
+Bétaïne citrate
+Bétaméthasone
+Carbidopa
+Bosentan
+Lénograstim
+Lévocabastine (chlorhydrate)
+Fentanyl (citrate)
+Piracétam
+Lamotrigine
+Clonidine chlorhydrate
+Ceftriaxone (sodique)
+Érythromycine (propionate)
+Diclofénac épolamine
+Géméprost
+Flupentixol décanoate
+Évérolimus
+Ipratropium bromure
+Lactitol
+Acide fusidique
+Hydrocortisone (hémisuccinate sodique)
+Céfaclor
+Métoprolol tartrate
+Lisuride maléate
+Mométasone furoate
+Trimébutine maléate
+Povidone iodée
+Ondansétron (chlorhydrate)
+Losartan potassique
+Étamsylate
+Éthinylestradiol
+Métronidazole
+Acide salicylique
+Isosorbide dinitrate
+Estradiol valérate
+Dexaméthasone phosphate (sodique)
+Sodium nitroprussiate
+Méthylergométrine maléate
+Lévobupivacaïne (chlorhydrate)
+Acide acétylsalicylique
+Sodium chlorure
+Potassium chlorure
+Cyclophosphamide
+Gabapentine
+Énalapril maléate
+Clarithromycine
+Magnésium (oxyde léger)
+Lamivudine
+Hexétidine
+Rifabutine
+Métoclopramide
+Magnésium (carbonate)
+Idarubicine chlorhydrate
+Fluoxétine (chlorhydrate)
+Épirubicine chlorhydrate
+Glucose
+Amlodipine (bésilate)
+Alprostadil
+Clotiazépam
+Cétrimide
+Sulfaméthizol
+Propofol
+Idursulfase
+Acide pamidronique sel disodique
+Carbocistéine
+Céfadroxil
+Bromhexine chlorhydrate
+Kétoprofène
+Flavoxate chlorhydrate
+Emtricitabine
+Lisuride maléate
+Toltérodine L-tartrate
+Potassium chlorure
+Peroxyde de benzoyle
+Disopyramide (phosphate)
+Cyanocobalamine
+Didanosine
+Dihydroergocristine mésilate
+Dipropylèneglycol salicylate
+Pegvisomant
+Pentostatine
+Glimépiride
+Testostérone énantate
+Salbutamol (sulfate)
+Lactitol
+Estradiol
+Mycophénolate mofétil
+Lévothyroxine sodique
+Indinavir (sulfate)
+Donépézil chlorhydrate
+Dihydroergotamine mésilate
+Éthambutol chlorhydrate
+Étoposide
+Caféine
+Olanzapine
+Acide acétylsalicylique (sel de lysine)
+Terbutaline sulfate
+Salbutamol (sulfate)
+Étiléfrine chlorhydrate
+Doxycycline
+Mésalazine
+Fluindione
+Cétylpyridinium chlorure
+Biotine
+Clorazépate dipotassique
+Leuproréline acétate
+Fluor (fluorure de sodium)
+Paroxétine (chlorhydrate)
+Octréotide (acétate)
+Pseudoéphédrine chlorhydrate
+Piracétam
+Pirétanide
+Trinitrine
+Yohimbine chlorhydrate
+Tétrazépam
+Ipratropium bromure
+Paracétamol
+Sulfaméthoxazole
+Roxithromycine
+Progestérone
+Amisulpride
+Crotamiton
+Éthosuximide
+Éconazole nitrate
+Diclofénac sodique
+Sterculia gomme
+Drospirénone
+Magnésium thiosulfate
+Méthysergide (maléate)
+Mercaptopurine
+Voriconazole
+Testostérone undécanoate
+Acide cromoglicique sel de Na
+Busulfan
+Atracurium bésilate
+Gabapentine
+Escitalopram (oxalate)
+Tramadol chlorhydrate
+Rétinol
+Doxapram chlorhydrate
+Dantrolène sodique
+Chloroquine (sulfate)
+Gabapentine
+Famciclovir
+Métoprolol tartrate
+Indapamide
+Gabapentine
+Pilocarpine chlorhydrate
+Troxérutine
+Vérapamil chlorhydrate
+Alfacalcidol
+Halopéridol
+Fluorouracil
+Clarithromycine
+Sorbitol
+Salbutamol (sulfate)
+Moexipril chlorhydrate
+Topiramate
+Telmisartan
+Rabéprazole sodique
+Hydromorphone chlorhydrate
+Trinitrine
+Sunitinib (malate)
+Sélégiline chlorhydrate
+Benzathine benzylpénicilline
+Ipratropium bromure
+Adrénaline (tartrate)
+Candésartan cilexétil
+Nicotine (résinate)
+Méthotrexate (sodique)
+Idarubicine chlorhydrate
+Somatostatine (acétate)
+Alfacalcidol
+Méthylphénidate chlorhydrate
+Bisoprolol hémifumarate
+Diménhydrinate
+Ambroxol chlorhydrate
+Glucose
+Doxylamine succinate
+Chlorhexidine gluconate
+Fluphénazine décanoate
+Eptifibatide
+Doxazosine (mésilate)
+Manganèse (gluconate)
+Lévomépromazine (chlorhydrate)
+Trinitrine
+Miristalkonium chlorure
+Carbidopa
+Lamotrigine
+Ibuprofène
+Adrénaline
+Codéine phosphate
+Noscapine (résinate)
+Trandolapril
+Salbutamol (sulfate)
+Simvastatine
+Aprépitant
+Acide édétique sel dicobaltique
+Acide pamidronique sel disodique
+Ivabradine (chlorhydrate)
+Glycérol
+Cartéolol chlorhydrate
+Sumatriptan (succinate)
+Promégestone
+Ofloxacine
+Azithromycine
+Chlorambucil
+Bétaméthasone (dipropionate)
+Bisoprolol hémifumarate
+Méthotrexate
+Lévothyroxine sodique
+Cisplatine
+Tazarotène
+Sirolimus
+Aciclovir
+Tobramycine (sulfate)
+Tréprostinil (sodique)
+Alpha-tocophérol acétate
+Irbésartan
+Isothipendyl chlorhydrate
+Paracétamol
+Morphine sulfate
+Lénograstim
+Ranitidine (chlorhydrate)
+Amisulpride
+Amoxicilline
+Aluminium hydroxyde
+Drospirénone
+Éconazole nitrate
+Cladribine
+Mizolastine
+Mémantine chlorhydrate
+Flumazénil
+Rétinol (palmitate)
+Phénobarbital (sodique)
+Phloroglucinol
+Trimétazidine dichlorhydrate
+Sucralfate
+Adapalène
+Acide folique
+Diflucortolone valérate
+Désonide
+Ibuprofène
+Hydrochlorothiazide
+Flécaïnide acétate
+Prégabaline
+Progestérone
+Sotalol chlorhydrate
+Fluticasone propionate
+Acide cromoglicique sel de Na
+Acide clavulanique (sel de K)
+Pipéracilline (sodique)
+Homatropine bromhydrate
+Sodium chondroïtine sulfate
+Valproate de sodium
+Ciclopirox olamine
+Azithromycine
+Citalopram (bromhydrate)
+Colestyramine
+Floctafénine
+Étiléfrine chlorhydrate
+Dopamine chlorhydrate
+Imatinib (mésilate)
+Hydrocortisone butyrate
+Nitisinone
+Olmésartan médoxomil
+Lithium (gluconate)
+Trimébutine
+Rispéridone
+Phénytoïne
+Ambroxol chlorhydrate
+Bromocriptine (mésilate)
+Bimatoprost
+Hexamidine di-isétionate
+Ézétimibe
+Drospirénone
+Budésonide
+Fentanyl
+Étodolac
+Oxymétazoline chlorhydrate
+Misoprostol
+Macrogol
+Terbinafine chlorhydrate
+Siméticone
+Pivmecillinam chlorhydrate
+Éthylmorphine chlorhydrate
+Naproxène
+Gemcitabine (chlorhydrate)
+Fludarabine phosphate
+Timolol (maléate)
+Amoxicilline
+Acide clodronique sel disodique
+Acide zolédronique
+Diclofénac sodique
+Cétrimide
+Calcium (carbonate)
+Labétalol chlorhydrate
+Fluvastatine (sodique)
+Énoxolone
+Lévobunolol chlorhydrate
+Lidocaïne chlorhydrate
+Nitrazépam
+Ofloxacine
+Miglustat
+Théophylline
+Pilocarpine nitrate
+Calcipotriol
+Bétaméthasone (phosphate disodique)
+Halofantrine chlorhydrate
+Halopéridol
+Phénothrine
+Montélukast (sel de Na)
+Pravastatine sodique
+Piribédil
+Dinoprostone
+Bupivacaïne chlorhydrate
+Frovatriptan (succinate)
+Adrénaline
+Isotrétinoïne
+Hydrochlorothiazide
+Halopéridol
+Losartan potassique
+Mébévérine chlorhydrate
+Trihexyphénidyle chlorhydrate
+Répaglinide
+Doxorubicine chlorhydrate
+Cartéolol chlorhydrate
+Azélastine chlorhydrate
+Imatinib (mésilate)
+Éphédrine chlorhydrate
+Rispéridone
+Lamotrigine
+Acide acétylsalicylique (sel de lysine)
+Thiamine chlorhydrate
+Lisinopril
+Gliclazide
+Timolol maléate
+Torémifène citrate
+Pinavérium bromure
+Lévocarnitine
+Brinzolamide
+Dopamine chlorhydrate
+Docusate sodique
+Carmustine
+Aciclovir
+Spectinomycine (dichlorhydrate)
+Succinimide
+Bamifylline chlorhydrate
+Béclométasone dipropionate
+Éplérénone
+Escitalopram (oxalate)
+Léflunomide
+Lévofloxacine
+Térazosine (chlorhydrate)
+Oxiconazole (nitrate)
+Molsidomine
+Hydrocortisone (hémisuccinate sodique)
+Galantamine (bromhydrate)
+Éthinylestradiol
+Mitomycine
+Méthylphénidate chlorhydrate
+Médroxyprogestérone acétate
+Ropinirole (chlorhydrate)
+Pipotiazine palmitate
+Zopiclone
+Fluméquine
+Estradiol valérate
+Dompéridone
+Méthylprednisolone (hémisuccinate)
+Hélicidine
+Fer (ascorbate ferreux)
+Norfloxacine
+Morphine sulfate
+Roxithromycine
+Potassium chlorure
+Amoxicilline (sodique)
+Acide alendronique (sel monosodique)
+Clonazépam
+Aténolol
+Amoxapine
+Doxépine (chlorhydrate)
+Dihydroergotoxine mésilate
+Desmopressine (acétate)
+Isosorbide dinitrate
+Furosémide
+Éprazinone dichlorhydrate
+Potassium chlorure
+Omoconazole nitrate
+Tacrolimus
+Ranitidine (chlorhydrate)
+Voriconazole
+Soufre (sodium thiosulfate)
+Chlorpromazine (chlorhydrate)
+Alizapride (chlorhydrate)
+Éprosartan (mésilate)
+Érythromycine (éthylsuccinate)
+Potassium gluconate
+Mexilétine chlorhydrate
+Mesna
+Tibolone
+Sildénafil (citrate)
+Bétaméthasone (dipropionate)
+Ampicilline (sodique)
+Acide acétylsalicylique
+Carboplatine
+Calcium (carbonate)
+Dihydroergotamine mésilate
+Loxapine
+Lidocaïne chlorhydrate
+Glimépiride
+Trinitrine
+Morphine sulfate
+Naftidrofuryl oxalate
+Dexchlorphéniramine maléate
+Éconazole nitrate
+Dinoprostone
+Méthylprednisolone (hémisuccinate)
+Glibenclamide
+Nafaréline (acétate)
+Mesna
+Trétinoïne
+Térazosine (chlorhydrate)
+Solifénacine succinate
+Erlotinib (chlorhydrate)
+Dexaméthasone phosphate sodique
+Ampicilline (sodique)
+Kétorolac trométamol
+Gentamicine (sulfate)
+Magnésium (sulfate)
+Lévobupivacaïne (chlorhydrate)
+Lévofloxacine
+Pyridostigmine bromure
+Sildénafil (citrate)
+Ribavirine
+Promégestone
+Disulfirame
+Béclométasone dipropionate
+Érythromycine
+Moexipril chlorhydrate
+Melphalan
+Paracétamol
+Tétracaïne chlorhydrate
+Oxybate de sodium
+Sertraline (chlorhydrate)
+Clomipramine chlorhydrate
+Bétaméthasone (acétate)
+Mitoxantrone (chlorhydrate)
+Manidipine chlorhydrate
+Vinblastine (sulfate)
+Adrénaline chlorhydrate
+Acide para-aminobenzoïque
+Cyprotérone acétate
+Paracétamol
+Ganirélix
+Tropicamide
+Sulpiride
+Candésartan cilexétil
+Valproate (semisodique)
+Chlorhexidine gluconate
+Mépivacaïne chlorhydrate
+Éthinylestradiol
+Pentaérythritol
+Noréthandrolone
+Ticarcilline (sodique)
+Caféine
+Digoxine
+Aripiprazole
+Arsenic trioxyde
+Métronidazole
+Éthinylestradiol
+Rispéridone
+Phloroglucinol
+Morphine sulfate
+Bicarbonate de sodium
+Céfaclor
+Budésonide
+Bézafibrate
+Céfuroxime (axétil)
+Ceftriaxone (sodique)
+Célécoxib
+Nicotine (polacriline)
+Lymécycline
+Benzalkonium chlorure
+Alprostadil
+Désoxyribonucléase
+Dextrométhorphane bromhydrate
+Céfadroxil
+Mésalazine
+Amisulpride
+Dextrométhorphane bromhydrate
+Céfuroxime (sel de Na)
+Morniflumate
+Glycérol
+Diménhydrinate
+Bisacodyl
+Colécalciférol
+Cyclopentolate chlorhydrate
+Ciprofibrate
+Clomipramine chlorhydrate
+Tiotropium (bromure)
+Théophylline (sodium acétate)
+Métopimazine
+Estradiol
+Lidocaïne
+Oxazépam
+Méthylprednisolone (hémisuccinate)
+Lidocaïne chlorhydrate
+Tramadol chlorhydrate
+Hydrogène peroxyde
+Carbimazole
+Felbamate
+Diclofénac sodique
+Clobétasol propionate
+Pentoxifylline
+Naproxène
+Glycine
+Cyanocobalamine
+Dihexyvérine chlorhydrate
+Lidocaïne chlorhydrate
+Didanosine
+Trimipramine (maléate)
+Magnésium hydroxyde
+Acide acétylsalicylique
+Acide folinique (sel de calcium)
+Caspofungine (acétate)
+Bisoprolol hémifumarate
+Kaolin lourd
+Acétylcystéine
+Trinitrine
+Acide clavulanique (sel de K)
+Benzalkonium chlorure
+Atorvastatine (calcique)
+Formotérol fumarate
+Fludarabine phosphate
+Mupirocine
+Mercaptamine (bitartrate)
+Glimépiride
+Acarbose
+Vérapamil chlorhydrate
+Pyridoxine chlorhydrate
+Fentanyl (citrate)
+Benzalkonium chlorure
+Benzododécinium bromure
+Olanzapine
+Magnésium sulfate
+Gonadoréline acétate
+Prégabaline
+Povidone iodée
+Bénazépril chlorhydrate
+Flurbiprofène
+Diflucortolone valérate
+Dexpanthénol
+Goséréline (acétate)
+Acide folinique (sel de calcium)
+Sulindac
+Moxisylyte chlorhydrate
+Isoniazide
+Cyanocobalamine
+Céfotaxime (sel de Na)
+Oxycodone chlorhydrate
+Lithium gluconate
+Diphénhydramine chlorhydrate
+Acétylcystéine
+Spironolactone
+Rosuvastatine (calcique)
+Fluticasone propionate
+Benzalkonium chlorure
+Idrocilamide
+Hydrochlorothiazide
+Sirolimus
+Pyridoxine chlorhydrate
+Triamcinolone acétonide
+Tétrabénazine
+Siméticone
+Atovaquone
+Alprazolam
+Desmopressine acétate
+Ceftazidime
+Lanthane (carbonate)
+Dinoprostone
+Ofloxacine
+Trifluridine
+Trihexyphénidyle chlorhydrate
+Rétinol
+Clindamycine (phosphate)
+Cyanocobalamine
+Biclotymol
+Fluconazole
+Clarithromycine
+Paracétamol
+Acide L-folinique (sel de calcium)
+Aripiprazole
+Amitriptyline (chlorhydrate)
+Calcium (carbonate)
+Apomorphine chlorhydrate
+Desmopressine (acétate)
+Clonidine chlorhydrate
+Colécalciférol
+Estriol
+Félodipine
+Diméticone
+Naratriptan (chlorhydrate)
+Lénalidomide
+Hydrochlorothiazide
+Quinapril (chlorhydrate)
+Ritonavir
+Pyriméthamine
+Diclofénac sodique
+Mirtazapine
+Glibenclamide
+Benzylthiouracile
+Aripiprazole
+Bétaïne citrate
+Olanzapine
+Erlotinib (chlorhydrate)
+Érythromycine (lactobionate)
+Acide acétylsalicylique
+Saquinavir (mésilate)
+Phényléphrine chlorhydrate
+Atosiban (acétate)
+Acide ascorbique
+Daptomycine
+Béclométasone dipropionate
+Paroxétine (mésilate)
+Ipratropium bromure
+Valaciclovir (chlorhydrate)
+Amlodipine (bésilate)
+Acide folique
+Clomifène citrate
+Clotiazépam
+Carbomère
+Nicotine (catiorésine carboxylate)
+Méthyldopa
+Acide folinique (sel de calcium)
+Thiocolchicoside
+Sufentanil (citrate)
+Amitriptyline (chlorhydrate)
+Bortézomib
+Biclotymol
+Cyprotérone acétate
+Chlorhexidine gluconate
+Cinéole
+Diclofénac sodique
+Nifédipine
+Acide salicylique
+Dasatinib
+Céfalexine
+Adrénaline (tartrate)
+Morphine sulfate
+Lénalidomide
+Dipyridamole
+Sumatriptan (succinate)
+Oxcarbazépine
+Nalbuphine chlorhydrate
+Métoclopramide
+Lamivudine
+Pyrantel (embonate)
+Uridine triphosphate trisodique
+Thiamphénicol
+Propranolol chlorhydrate
+Benzalkonium chlorure
+Adrénaline chlorhydrate
+Dihexyvérine chlorhydrate
+Calcitonine de saumon
+Vancomycine (chlorhydrate)
+Paracétamol
+Magnésium (pidolate)
+Éthinylestradiol
+Hydromorphone chlorhydrate
+Glycérol
+Nicotine (polacriline)
+Naftidrofuryl oxalate
+Glibenclamide
+Rasburicase
+Oxéladine citrate
+Acide acétylsalicylique
+Valsartan
+Bifonazole
+Célécoxib
+Calcium (carbonate)
+Caféine
+Dextrométhorphane bromhydrate
+Citalopram (chlorhydrate)
+Lodoxamide (trométamol)
+Formotérol fumarate
+Vinorelbine (ditartrate)
+Prazosine (chlorhydrate)
+Alfuzosine chlorhydrate
+Céfadroxil
+Bromocriptine (mésilate)
+Ivermectine
+Énoxacine
+Dacistéine méthyle
+Magnésium (chlorure)
+Méphénésine
+Iloprost
+Vigabatrine
+Zidovudine
+Carbidopa
+Calcium gluceptate
+Dexpanthénol
+Chlorhexidine gluconate
+Fotémustine
+Chlormadinone acétate
+Méthadone chlorhydrate
+Acide carglumique
+Acide ursodésoxycholique
+Aténolol
+Esmolol chlorhydrate
+Clindamycine (phosphate)
+Colécalciférol
+Linézolide
+Isoconazole nitrate
+Ergocalciférol
+Simvastatine
+Oxitriptan
+Budésonide
+Valproate de sodium
+Érythromycine (éthylsuccinate)
+Colécalciférol
+Linézolide
+Lidocaïne
+Fluticasone propionate
+Morphine sulfate
+Ésérine salicylate
+Éconazole nitrate
+Péthidine chlorhydrate
+Méthylphénidate chlorhydrate
+Flutamide
+Vinburnine
+Sucralfate
+Tadalafil
+Céfadroxil
+Valproate de sodium
+Diosmine
+Codéine (phosphate)
+Cyanocobalamine
+Hydrochlorothiazide
+Entécavir
+Esmolol chlorhydrate
+Paroxétine (chlorhydrate)
+Amitriptyline (chlorhydrate)
+Albendazole
+Alfacalcidol
+Isoconazole nitrate
+Flupentixol (dichlorhydrate)
+Cafédrine chlorhydrate
+Acénocoumarol
+Tacrolimus
+Propériciazine
+Acétylcystéine
+Salbutamol (sulfate)
+Rivastigmine (hydrogénotartrate)
+Aztréonam
+Déanol pidolate
+Ceftriaxone (sodique)
+Lithium gluconate
+Énoximone
+Vancomycine (chlorhydrate)
+Ropinirole (chlorhydrate)
+Caspofungine (acétate)
+Albendazole
+Érythromycine
+Estradiol valérate
+Lidocaïne chlorhydrate
+Granisétron (chlorhydrate)
+Trinitrine
+Macrogol
+Lévonorgestrel
+Éthinylestradiol
+Carmellose sodique
+Méphénésine
+Isotrétinoïne
+Glucose
+Morphine sulfate
+Mitotane
+Mesna
+Oxycodone chlorhydrate
+Nifuroxazide
+Olanzapine
+Tramadol chlorhydrate
+Ondansétron (chlorhydrate)
+Calcitriol
+Alglucosidase alfa
+Fluticasone propionate
+Diltiazem chlorhydrate
+Danazol
+Tigécycline
+Rosuvastatine (calcique)
+Potassium chlorure
+Aciclovir
+Trimipramine (mésilate)
+Tamoxifène (citrate)
+Acide zolédronique
+Dapsone
+Cyproheptadine (chlorhydrate)
+Chlorpromazine (chlorhydrate)
+Estradiol
+Diltiazem chlorhydrate
+Magaldrate
+Magnésium (chlorure)
+Idarubicine chlorhydrate
+Rispéridone
+Acriflavine
+Dihydroergotamine mésilate
+Bisoprolol hémifumarate
+Kétoprofène
+Épirubicine chlorhydrate
+Acide salicylique
+Liothyronine sodique
+Dexaméthasone
+Cétrimide
+Oxytocine
+Miltéfosine
+Tétracaïne chlorhydrate
+Défériprone
+Pipéracilline (sodique)
+Lidocaïne chlorhydrate
+Époprosténol (sel de Na)
+Zofénopril calcique
+Salbutamol (sulfate)
+Caféine
+Cétrimide
+Kétotifène (fumarate)
+Hydrocortisone (acétate)
+Tobramycine
+Buprénorphine (chlorhydrate)
+Bétaïne citrate
+Cilastatine (sodique)
+Cefpodoxime (proxétil)
+Itraconazole
+Diénogest
+Ornithine oxoglurate
+Magnésium (lactate)
+Lamotrigine
+Tramadol chlorhydrate
+Tréprostinil (sodique)
+Rivastigmine (hydrogénotartrate)
+Céfixime
+Glycérol
+Ceftriaxone (sodique)
+Zolmitriptan
+Périndopril tert-butylamine
+Naltrexone chlorhydrate
+Diltiazem chlorhydrate
+Dexaméthasone
+Irbésartan
+Hydrochlorothiazide
+Fluvoxamine maléate
+Terlipressine acétate
+Potassium gluconate
+Pentoxyvérine citrate
+Aluminium hydroxyde
+Budésonide
+Apomorphine chlorhydrate
+Pholcodine
+Méquinol
+Dihydralazine mésilate
+Vigabatrine
+Trihexyphénidyle chlorhydrate
+Strontium-
+Buprénorphine (chlorhydrate)
+Lercanidipine chlorhydrate
+Potassium tartrate
+Povidone iodée
+Phénobarbital
+Spiramycine (adipate)
+Prednisolone (m-sulfobenzoate sel de Na)
+Céfépime (chlorhydrate)
+Acide ursodésoxycholique
+Étamsylate
+Cinacalcet (chlorhydrate)
+Méquinol
+Furosémide
+Méthylprednisolone (hémisuccinate)
+Métopimazine
+Zinc (acétate)
+Terbinafine (chlorhydrate)
+Magnésium (citrate)
+Magnésium citrate
+Imipramine chlorhydrate
+Pipotiazine palmitate
+Tolcapone
+Suxaméthonium chlorure
+Ramipril
+Bupropion chlorhydrate
+Allopurinol
+Acide tiludronique (sel de Na)
+Acide folinique (sel de calcium)
+Desflurane
+Nicotine
+Ibacitabine
+Ceftriaxone (sodique)
+Céfixime
+Articaïne chlorhydrate
+Flurbiprofène
+Dorzolamide (chlorhydrate)
+Loflazépate d'éthyle
+Manidipine chlorhydrate
+Acide acétylsalicylique (sel de lysine)
+Urapidil (chlorhydrate)
+Trandolapril
+Atropine sulfate
+Galantamine (bromhydrate)
+Céfoxitine (sel de Na)
+Trolamine
+Piracétam
+Dipyridamole
+Céfotaxime (sel de Na)
+Lidocaïne chlorhydrate
+Estradiol
+Mycophénolate (sodique)
+Méthylphénidate chlorhydrate
+Acébutolol (chlorhydrate)
+Timolol (maléate)
+Dobutamine (chlorhydrate)
+Céfradine
+Fénofibrate
+Fénoprofène (calcique)
+Magaldrate
+Imidapril chlorhydrate
+Codéine phosphate
+Mirtazapine
+Chlormadinone acétate
+Méthocarbamol
+Lidocaïne
+Imidapril chlorhydrate
+Paracétamol
+Oxybate de sodium
+Sulbutiamine
+Acide fusidique sel de Na
+Hématoporphyrine dichlorhydrate
+Flécaïnide acétate
+Chlorhexidine gluconate
+Mitoxantrone (chlorhydrate)
+Métoclopramide chlorhydrate
+Méglumine benzoate
+Tolnaftate
+Omoconazole nitrate
+Cinéole
+Mifépristone
+Hydroxocobalamine acétate
+Corticoréline (triflutate)
+Amifostine
+Alimémazine (tartrate)
+Fluoxétine (chlorhydrate)
+Éthambutol chlorhydrate
+Étomidate
+Fluconazole
+Trimébutine maléate
+Théophylline
+Riluzole
+Allopurinol
+Dasatinib
+Cisplatine
+Baclofène
+Mésalazine
+Montélukast (sel de Na)
+Modafinil
+Molsidomine
+Éthanol
+Pantoprazole (sel de Na)
+Diosmine
+Clozapine
+Cytarabine
+Dropéridol
+Diclofénac sodique
+Dihydrocodéine tartrate
+Fluor (fluorure de sodium)
+Adrénaline
+Fondaparinux sodique
+Gabapentine
+Hydroxyzine chlorhydrate
+Calcium (carbonate)
+Benzalkonium chlorure
+Eptifibatide
+Digoxine
+Dexchlorphéniramine maléate
+Gentamicine (sulfate)
+Fluticasone propionate
+Manganèse (sulfate)
+Salbutamol (sulfate)
+Paracétamol
+Acide clavulanique (sel de K)
+Colécalciférol
+Adénosine phosphate
+Telmisartan
+Miconazole nitrate
+Heptaminol chlorhydrate
+Acitrétine
+Cyamémazine
+Kétoprofène
+Fluticasone propionate
+Dextrométhorphane bromhydrate
+Povidone
+Naftidrofuryl oxalate
+Lithium (citrate)
+Trandolapril
+Spironolactone
+Adrénaline
+Dantrolène sodique
+Carbamazépine
+Fluconazole
+Atropine sulfate
+Acide ibandronique (sel monosodique)
+Métronidazole
+Isotrétinoïne
+Papavérine chlorhydrate
+Naproxène
+Néostigmine méthylsulfate
+Phénothrine
+Cyclophosphamide
+Calcium carbonate
+Arginine aspartate
+Fluticasone propionate
+Fondaparinux sodique
+Furosémide
+Phénoxyméthylpénicilline
+Morphine sulfate
+Mésalazine
+Valsartan
+Zinc (acétate)
+Peroxyde de benzoyle
+Bifonazole
+Chlorhexidine gluconate
+Cimétidine
+Béclométasone dipropionate
+Dexaméthasone phosphate sodique
+Dexrazoxane (chlorhydrate)
+Miconazole nitrate
+Fluticasone propionate
+Désogestrel
+Trihexyphénidyle chlorhydrate
+Procaïne chlorhydrate
+Candésartan cilexétil
+Oxacilline (sel de Na)
+Moxonidine
+Zolpidem tartrate
+Prednisolone (m-sulfobenzoate sel de Na)
+Diméticone
+Calcifédiol
+Acide folinique (sel de calcium)
+Gemfibrozil
+Fluconazole
+Streptokinase
+Tacalcitol
+Valganciclovir (chlorhydrate)
+Sodium phénylbutyrate
+Cloxacilline (sodique)
+Amitriptyline (chlorhydrate)
+Oxycodone chlorhydrate
+Tacrolimus
+Oxycodone chlorhydrate
+Félodipine
+Doxycycline (hyclate)
+Acide clavulanique (sel de K)
+Fosinopril
+Étomidate
+Isothipendyl chlorhydrate
+Sirolimus
+Povidone
+Nicardipine chlorhydrate
+Acide acétylsalicylique
+Topiramate
+Hexétidine
+Norfloxacine
+Minoxidil
+Sufentanil (citrate)
+Quinine benzoate
+Bénazépril chlorhydrate
+Josamycine (propionate)
+Triamcinolone hexacétonide
+Prégabaline
+Céfuroxime (sel de Na)
+Estradiol
+Dosulépine chlorhydrate
+Rilménidine (phosphate)
+Pramipexole (dichlorhydrate)
+Caféine
+Calcium (phosphate)
+Bimatoprost
+Métronidazole
+Calcium (carbonate)
+Acétylleucine
+Oxcarbazépine
+Caféine
+Aténolol
+Magnésium sulfate
+Cétrimide
+Céthexonium bromure
+Povidone iodée
+Néomycine sulfate
+Bensérazide (chlorhydrate)
+Nizatidine
+Cyclovalone
+Zonisamide
+Tiopronine
+Télithromycine
+Ciclopirox olamine
+Carvédilol
+Paracétamol
+Naproxène
+Buspirone chlorhydrate
+Morphine chlorhydrate
+Fenspiride chlorhydrate
+Répaglinide
+Orlistat
+Salbutamol (sulfate)
+Amoxicilline
+Bicarbonate de sodium
+Lopéramide chlorhydrate
+Fluticasone propionate
+Prométhazine (chlorhydrate)
+Sufentanil (citrate)
+Ropivacaïne chlorhydrate
+Didanosine
+Dihydroergotamine mésilate
+Dexchlorphéniramine maléate
+Mémantine chlorhydrate
+Isoconazole nitrate
+Hydrochlorothiazide
+Piribédil mésilate
+Méthylprednisolone (hémisuccinate)
+Médrogestone
+Thiamphénicol
+Rosuvastatine (calcique)
+Chlortétracycline chlorhydrate
+Calcium (carbonate)
+Bézafibrate
+Efavirenz
+Élétriptan (bromhydrate)
+Didanosine
+Phytoménadione
+Acide fusidique sel de Na
+Diltiazem chlorhydrate
+Captopril
+Estriol
+Estriol
+Acide acétylsalicylique (sel de lysine)
+Lopéramide chlorhydrate
+Isradipine
+Itraconazole
+Éflornithine (chlorhydrate)
+Morphine chlorhydrate
+Méthylprednisolone
+Brimonidine tartrate
+Budésonide
+Kétoprofène
+Éconazole nitrate
+Mycophénolate mofétil
+Nicotine
+Minoxidil
+Povidone iodée
+Morphine sulfate
+Témozolomide
+Simvastatine
+Flucytosine
+Épirubicine chlorhydrate
+Clobétasol propionate
+Potassium iodure
+Glipizide
+Acide folinique (sel de calcium)
+Morphine sulfate
+Niclosamide
+Métronidazole
+Pémétrexed (disodique)
+Céfaclor
+Amiloride chlorhydrate
+Didanosine
+Picloxydine dichlorhydrate
+Hydrocortisone butyrate
+Bétaméthasone (dipropionate)
+Aripiprazole
+Diphénhydramine diacéfylline
+Bromphéniramine maléate
+Fenticonazole nitrate
+Efavirenz
+Diméticone
+Pénicillamine
+Kétotifène (fumarate)
+Théophylline
+Ribavirine
+Disopyramide
+Nabumétone
+Hexamidine di-isétionate
+Adrénaline (tartrate)
+Varénicline (tartrate)
+Ornithine oxoglurate
+Risédronate sodique
+Ibuprofène
+Fluor (fluorure de sodium)
+Cabergoline
+Lidocaïne
+Hydrochlorothiazide
+Mitomycine
+Lanréotide (acétate)
+Bétaxolol (chlorhydrate)
+Clomipramine chlorhydrate
+Calcium (carbonate)
+Lormétazépam
+Fosinopril
+Fluor (fluorure de sodium)
+Nifédipine
+Sodium chlorure
+Prednisolone acétate
+Piroxicam
+Xylène
+Terbinafine
+Cimétidine
+Guaïfénésine
+Chlormadinone acétate
+Acamprosate calcique
+Ribavirine
+Buséréline (acétate)
+Almitrine dimésilate
+Dextrométhorphane bromhydrate
+Périndopril tert-butylamine
+Paracétamol
+Hydrochlorothiazide
+Zinc (gluconate)
+Silymarine
+Risédronate sodique
+Bétaméthasone (valérate)
+Atorvastatine (calcique)
+Magnésium pidolate
+Estradiol
+Bivalirudine
+Acide acétylsalicylique (sel de lysine)
+Morphine sulfate
+Amoxicilline (sodique)
+Metformine chlorhydrate
+Ceftriaxone (sodique)
+Céfaclor
+Tiapride (chlorhydrate)
+Nicotine
+Zuclopenthixol acétate
+Thiamine chlorhydrate
+Fénofibrate
+Rutoside
+Métacycline chlorhydrate
+Méthylthioninium hydroxyde
+Bétahistine dichlorhydrate
+Olanzapine
+Méthylprednisolone (hémisuccinate)
+Warfarine sodique
+Prednisolone (m-sulfobenzoate sel de Na)
+Acide clavulanique (sel de K)
+Busulfan
+Bambutérol chlorhydrate
+Amoxicilline
+Efavirenz
+Bisoprolol hémifumarate
+Buséréline (acétate)
+Piroxicam
+Paracétamol
+Méthoxsalène
+Acétylcystéine
+Alpha-tocophérol acétate
+Clonazépam
+Amyléine chlorhydrate
+Noradrénaline bitartrate
+Méropénem
+Désogestrel
+Sertraline (chlorhydrate)
+Racécadotril
+Praziquantel
+Stavudine
+Sufentanil (citrate)
+Étoposide
+Éthinylestradiol
+Mycophénolate (sodique)
+Ibuprofène
+Flubendazole
+Sildénafil (citrate)
+Pramipexole (dichlorhydrate)
+Timolol (maléate)
+Carbocistéine
+Amitriptyline chlorhydrate
+Clorazépate dipotassique
+Chlorquinaldol
+Méthotrexate
+Malathion
+Dextrométhorphane bromhydrate
+Vérapamil chlorhydrate
+Phloroglucinol
+Nitisinone
+Alpha-tocophérol acétate
+Mébévérine chlorhydrate
+Nicotine (tartrate)
+Tramadol chlorhydrate
+Succimer
+Sodium chondroïtine sulfate
+Glucose
+Clopidogrel (hydrogénosulfate)
+Calcium carbonate
+Nimodipine
+Naproxène
+Pyrazinamide
+Paclitaxel
+Caféine
+Amlodipine (bésilate)
+Paracétamol
+Érythromycine (éthylsuccinate)
+Rétinol
+Povidone
+Isradipine
+Citrulline malate
+Malathion
+Lanthane (carbonate)
+Caféine
+Béclométasone dipropionate
+Dihydroergotamine mésilate
+Clarithromycine
+Lévétiracétam
+Famotidine
+Estradiol
+Phénobarbital
+Oxomémazine
+Méloxicam
+Phosphate dipotassique
+Potassium chlorure
+Acétylcystéine
+Théophylline
+Arginine chlorhydrate
+Bosentan
+Palifermine
+Méthadone chlorhydrate
+Terbinafine chlorhydrate
+Calcitriol
+Métoclopramide chlorhydrate
+Didanosine
+Téicoplanine
+Naproxène sel de Na
+Bumétanide
+Mépivacaïne chlorhydrate
+Daptomycine
+Diclofénac potassique
+Sodium tétradécyl sulfate
+Furosémide
+Dopamine chlorhydrate
+Céfuroxime (sel de Na)
+Lamivudine
+Foscarnet sodique
+Topiramate
+Magnésium thiosulfate
+Stavudine
+Buséréline (acétate)
+Caféine citrate
+Clindamycine (chlorhydrate)
+Carmustine
+Bromazépam
+Eau ppi
+Digoxine
+Dibotermine alfa
+Halopéridol (décanoate)
+Fenspiride chlorhydrate
+Étodolac
+Sévoflurane
+Morphine sulfate
+Ibuprofène
+Topiramate
+Somatostatine (acétate)
+Salbutamol (sulfate)
+Arginine glutamate
+Cyamémazine (tartrate)
+Bexarotène
+Galantamine (bromhydrate)
+Éthinylestradiol
+Diazoxide
+Pimozide
+Piroxicam
+Warfarine sodique
+Épirubicine chlorhydrate
+Diltiazem chlorhydrate
+Diazoxide
+Phosphate monopotassique
+Piroxicam (bétadex)
+Olanzapine
+Testostérone
+Tiapride (chlorhydrate)
+Pyrantel (embonate)
+Amantadine chlorhydrate
+Carbimazole
+Aténolol
+Attapulgite
+Dexaméthasone
+Fosamprénavir calcique
+Éphédrine chlorhydrate
+Isosorbide dinitrate
+Glucose
+Pyrantel (embonate)
+Valsartan
+Zinc (gluconate)
+Topiramate
+Alitrétinoïne
+Fluticasone propionate
+Fluvastatine (sodique)
+Paracétamol
+Ondansétron
+Minoxidil
+Zopiclone
+Thiocolchicoside
+Proguanil chlorhydrate
+Risédronate sodique
+Desmopressine acétate
+Cétrorélix (acétate)
+Céliprolol chlorhydrate
+Paracétamol
+Fénofibrate
+Propylthiouracile
+Penfluridol
+L-cystine
+Sodium chondroïtine sulfate
+Pyridoxine chlorhydrate
+Magnésium (aspartate)
+Hydrochlorothiazide
+Acide folinique (sel de calcium)
+Nimodipine
+Méquinol
+Hydromorphone chlorhydrate
+Gentamicine (sulfate)
+Carbidopa
+Clozapine
+Lopinavir
+Hydrochlorothiazide
+Gentamicine (sulfate)
+Calcium glycérophosphate
+Almitrine dimésilate
+Ébastine
+Chlordiazépoxide
+Isosorbide mononitrate
+Fosinopril sodique
+Galantamine (bromhydrate)
+Olmésartan médoxomil
+Miansérine chlorhydrate
+Tobramycine (sulfate)
+Trimétazidine dichlorhydrate
+Prednisone
+Valproate de sodium
+Bétahistine dichlorhydrate
+Bétaxolol (chlorhydrate)
+Fluconazole
+Diazépam
+Latanoprost
+Lisinopril
+Hydrochlorothiazide
+Métopimazine
+Manganèse (gluconate)
+Pilocarpine chlorhydrate
+Métyrapone
+Terbutaline sulfate
+Rispéridone
+Désoxycortone acétate
+Cartéolol chlorhydrate
+Lapatinib (tosilate)
+Indométacine
+Hydrogène peroxyde
+Phényléphrine chlorhydrate
+Nifuroxazide
+Piroxicam
+Amoxicilline
+Méfloquine (chlorhydrate)
+Fluticasone propionate
+Timolol (maléate)
+Codéine phosphate
+Métopimazine
+Ciclétanine chlorhydrate
+Carbidopa
+Abacavir (sulfate)
+Phloroglucinol
+Attapulgite
+Tobramycine (sulfate)
+Melphalan
+Hydroxyzine chlorhydrate
+Acétylcholine chlorure
+Vardénafil (chlorhydrate)
+Alimémazine (tartrate)
+Alimémazine (tartrate)
+Acide azélaïque
+Nadolol
+Métoprolol succinate
+Lincomycine (chlorhydrate)
+Aciclovir
+Acide acétylsalicylique
+Isosorbide mononitrate
+Hydrochlorothiazide
+Phénobarbital
+Miconazole
+Rétinol
+Rifampicine
+Alprostadil
+Calcitonine de saumon
+Benzylpénicilline sodique
+Bétaïne citrate
+Milrinone
+Mégestrol acétate
+Isoniazide
+Tramadol chlorhydrate
+Quinagolide (chlorhydrate)
+Acide niflumique
+Ésoméprazole (sodique)
+Chlorquinaldol
+Adrénaline
+Méquitazine
+Zonisamide
+Olsalazine sodique
+Amiloride chlorhydrate
+Alprostadil
+Budésonide
+Amsacrine
+Azélastine (chlorhydrate)
+Enfuvirtide
+Doxycycline (hyclate)
+Carbocistéine
+Fer (hydroxyde ferrique-saccharose)
+Flubendazole
+Isotrétinoïne
+Hydrocortisone butyrate
+Ganciclovir
+Acétylcystéine
+Ranitidine (chlorhydrate)
+Prazosine (chlorhydrate)
+Quinisocaïne chlorhydrate
+Olanzapine
+Ibuprofène
+Trétinoïne
+Prednisone
+Amikacine (sulfate)
+Amiodarone chlorhydrate
+Clorazépate dipotassique
+Charbon activé
+Chlorpromazine (chlorhydrate)
+Lamivudine
+Valproate (semisodique)
+Clomipramine chlorhydrate
+Ténoxicam
+Piracétam
+Oxycodone chlorhydrate
+Clarithromycine
+Béclométasone dipropionate
+Imiglucérase
+Halofantrine chlorhydrate
+Vardénafil (chlorhydrate)
+Méthylphénidate chlorhydrate
+Alfentanil (chlorhydrate)
+Valproate de sodium
+Merbromine sodique
+Lacidipine
+Phytoménadione
+Méthylprednisolone (hémisuccinate)
+Flécaïnide acétate
+Dorzolamide (chlorhydrate)
+Amiloride chlorhydrate
+Rémifentanil (chlorhydrate)
+Fentanyl (citrate)
+Trihexyphénidyle chlorhydrate
+Terpine
+Travoprost
+Acide acétylsalicylique (sel de lysine)
+Acide acétylsalicylique
+Acide ascorbique
+Fexofénadine chlorhydrate
+Diéthylstilbestrol
+Citalopram (chlorhydrate)
+Vardénafil (chlorhydrate)
+Ibuprofène
+Fentanyl (citrate)
+Biotine
+Amisulpride
+Leucocianidol
+Acide cromoglicique sel de Na
+Triptoréline (acétate)
+Voriconazole
+Déférasirox
+Ceftazidime
+Valproate de sodium
+Lévomépromazine (chlorhydrate)
+Érythromycine (éthylsuccinate)
+Pegvisomant
+Lamotrigine
+Ceftazidime
+Captopril
+Hexamidine di-isétionate
+Fluconazole
+Sertraline (chlorhydrate)
+Mébévérine chlorhydrate
+Isosorbide dinitrate
+Nordazépam
+Moxifloxacine (chlorhydrate)
+Calcium (carbonate)
+Erdostéine
+Doxylamine succinate
+Diosmectite
+Octréotide (acétate)
+Lévothyroxine sodique
+Hydroquinidine chlorhydrate
+Zanamivir
+Zonisamide
+Protamine sulfate
+Apraclonidine (chlorhydrate)
+Céfuroxime (axétil)
+Bétaméthasone (valérate)
+Ésoméprazole (magnésium)
+Dinoprostone
+Fentanyl (citrate)
+Adrénaline (tartrate)
+Époprosténol (sel de Na)
+Ivabradine (chlorhydrate)
+Hydroxyzine chlorhydrate
+Abacavir (sulfate)
+Lévétiracétam
+Isosorbide dinitrate
+Ondansétron (chlorhydrate)
+Métoclopramide chlorhydrate
+Nicardipine chlorhydrate
+Metformine chlorhydrate
+Tréprostinil (sodique)
+Paracétamol
+Atosiban (acétate)
+Acide flavodique sel disodique
+Céfadroxil
+Bénazépril chlorhydrate
+Kétoprofène
+Estradiol
+Pralidoxime (méthylsulfate)
+Méthylphénidate chlorhydrate
+Méclozine chlorhydrate
+Terpine
+Rispéridone
+Acide alendronique (sel monosodique)
+Phénoxyméthylpénicilline (benzathine lécithinée)
+Morphine sulfate
+Aripiprazole
+Acide clavulanique (sel de K)
+Colchicine
+Bleu patenté V
+Estramustine phosphate disodique
+Daunorubicine (chlorhydrate)
+Miglitol
+Lactitol
+Paracétamol
+Midécamycine acétate
+Tramadol chlorhydrate
+Strontium ranélate
+Ropinirole (chlorhydrate)
+Bumétanide
+Dihydroergotamine mésilate
+Bisoprolol hémifumarate
+Entacapone
+Hydrocortisone
+Hydromorphone chlorhydrate
+Ibuprofène
+Glibenclamide
+Lévothyroxine sodique
+Spironolactone
+Acide pamidronique sel disodique
+Bensérazide (chlorhydrate)
+Amoxapine
+Alminoprofène
+Désogestrel
+Clindamycine (phosphate)
+Famotidine
+Éconazole nitrate
+Leuproréline acétate
+Hydrochlorothiazide
+Fluticasone propionate
+Tacrolimus
+Médroxyprogestérone acétate
+Bétahistine dichlorhydrate
+Clindamycine (chlorhydrate)
+Céfoxitine (sel de Na)
+Caféine
+Méthylprednisolone acétate
+Loxapine
+Efavirenz
+Clopamide
+Phénothrine
+Miansérine chlorhydrate
+Roxithromycine
+Leuproréline acétate
+Lithium carbonate
+Fer (sulfate ferreux)
+Dextrométhorphane bromhydrate
+Metformine embonate
+Méloxicam
+Nicotine (catiorésine carboxylate)
+Céfazoline (sodique)
+Bétahistine mésilate
+Ciclopirox olamine
+Cinchocaïne chlorhydrate
+Hexamidine di-isétionate
+Finastéride
+Flupentixol décanoate
+Mesna
+Lorazépam
+Indométacine
+Zinc (gluconate)
+Sodium chlorure
+Acide méfénamique
+Fenticonazole nitrate
+Estradiol
+Cibenzoline (succinate)
+Magnésium hydroxyde
+Lanthane (carbonate)
+Kétoprofène
+Sumatriptan
+Cimétidine
+Lidocaïne chlorhydrate
+Hymécromone
+Métoprolol succinate
+Lévothyroxine sodique
+Soufre (sodium thiosulfate)
+Piracétam
+Ciprofloxacine (chlorhydrate)
+Cyamémazine
+Estradiol
+Dropéridol
+Loxapine (succinate)
+Kétoconazole
+Ésérine salicylate
+Tiagabine (chlorhydrate)
+Méthylprednisolone (hémisuccinate)
+Citalopram (chlorhydrate)
+Morphine sulfate
+Fénofibrate
+Streptokinase
+Sélégiline chlorhydrate
+Pipobroman
+Vécuronium bromure
+Telmisartan
+Stiripentol
+Arginine aspartate
+Benzoate de benzyle
+Isothipendyl chlorhydrate
+Doxazosine (mésilate)
+Oxymétazoline chlorhydrate
+Oméprazole
+Ézétimibe
+Quinapril (chlorhydrate)
+Atovaquone
+Acide lactique
+Méthocarbamol
+Calcium chlorure
+Benzylpénicilline sodique
+Prégabaline
+Paracétamol
+Mésalazine
+Ramipril
+Rifamycine sodique
+Ticlopidine chlorhydrate
+Stiripentol
+Bifonazole
+Acide salicylique
+Felbamate
+Bétaméthasone (phosphate disodique)
+Indapamide
+Indométacine
+Nicotine (résinate)
+Morphine sulfate
+Tacrolimus
+Piracétam
+Podophyllotoxine
+Amlodipine (bésilate)
+Diclofénac diéthylamine
+Clorazépate dipotassique
+Buprénorphine (chlorhydrate)
+Lomustine
+Rispéridone
+Paracétamol
+Morphine chlorhydrate
+Acide salicylique
+Estradiol valérate
+Budésonide
+Alpha-tocophérol acétate
+Fomépizole (sulfate)
+Ropinirole (chlorhydrate)
+Prométhazine (chlorhydrate)
+Lansoprazole
+Somatostatine (acétate)
+Sildénafil (citrate)
+Donépézil chlorhydrate
+Cétirizine dichlorhydrate
+Loprazolam (mésilate)
+Ifosfamide
+Sotalol chlorhydrate
+Trihexyphénidyle chlorhydrate
+Clofazimine
+Hexamidine di-isétionate
+Dutastéride
+Dextrométhorphane bromhydrate
+Paracétamol
+Vincristine sulfate
+Tixocortol pivalate
+Rabéprazole sodique
+Benzocaïne
+Étoposide
+Scopolamine butylbromure
+Isosorbide mononitrate
+Hydroxyéthylamidon
+Tiagabine (chlorhydrate)
+Tiapride (chlorhydrate)
+Chlorhexidine gluconate
+Brimonidine tartrate
+Érythromycine
+Oxycodone chlorhydrate
+Nicorandil
+Acide alendronique (sel monosodique)
+Sodium picosulfate
+Oxaliplatine
+Capécitabine
+Amoxicilline (sodique)
+Dextrométhorphane bromhydrate
+Céfaclor
+Propériciazine
+Nédocromil sel de Na
+Ergocalciférol
+Spiramycine
+Macrogol
+Mannitol
+Carbétocine
+Bétaïne citrate
+Minocycline (chlorhydrate)
+Mépivacaïne chlorhydrate
+Troxérutine
+Quinine (chlorhydrate)
+Prométhazine (chlorhydrate)
+Céfépime (chlorhydrate)
+Calcitonine de saumon
+Érythromycine
+Dantrolène sodique
+Chlorhexidine gluconate
+Métoprolol succinate
+Adrénaline (tartrate)
+Témozolomide
+Ritiométan magnésium
+Méthadone chlorhydrate
+Bétaméthasone (dipropionate)
+Acébutolol (chlorhydrate)
+Carvédilol
+Ibuprofène
+Énalapril maléate
+Doxépine (chlorhydrate)
+Ibuprofène
+Ibuprofène
+Povidone iodée
+Milnacipran chlorhydrate
+Médroxyprogestérone acétate
+Sulfaméthoxazole
+Ranitidine (chlorhydrate)
+Pipéracilline (sodique)
+Cilazapril
+Acide pipémidique
+Méthotrexate
+Érythromycine (éthylsuccinate)
+Propafénone chlorhydrate
+Paracétamol
+Acétylcystéine
+Théophylline
+Sulfadiazine
+Épirubicine chlorhydrate
+Valproate de sodium
+Furosémide
+Furosémide
+Épirubicine chlorhydrate
+Nicorandil
+Méthadone chlorhydrate
+Leuproréline acétate
+Tobramycine
+Salmétérol (xinafoate)
+Adapalène
+Céfalexine
+Acide tranexamique
+Acide salicylique
+Estazolam
+Céfuroxime (axétil)
+Hydrochlorothiazide
+Gentamicine (sulfate)
+Étoposide (phosphate)
+Métoclopramide chlorhydrate
+Méquitazine
+Piracétam
+Nabumétone
+Disopyramide (phosphate)
+Cinacalcet (chlorhydrate)
+Fluconazole
+Estradiol
+Phénothrine
+Paracétamol
+Sunitinib (malate)
+Quinapril (chlorhydrate)
+Tropatépine chlorhydrate
+Tioguanine
+Témazépam
+Ciprofloxacine (chlorhydrate)
+Chlortétracycline chlorhydrate
+Abacavir (sulfate)
+Zuclopenthixol (dichlorhydrate)
+Dextrométhorphane bromhydrate
+Caféine
+Mercaptamine (bitartrate)
+Théophylline
+Pristinamycine
+Méglumine antimoniate
+Acide salicylique
+Cytarabine
+Glycérol
+Halothane
+Estradiol
+Sulpiride
+Lormétazépam
+Triphosadénine disodique
+Adéfovir dipivoxil
+Cytarabine
+Céfazoline (sodique)
+Céfotiam (hexétil chlorhydrate)
+Hydroxyéthylamidon
+Fluoxétine (chlorhydrate)
+Codéine phosphate
+Acétylleucine
+Tropatépine chlorhydrate
+Scopolamine bromhydrate
+Dydrogestérone
+Bisacodyl
+Fluvastatine (sodique)
+Promestriène
+Pindolol
+Tertatolol chlorhydrate
+Pravastatine sodique
+Azathioprine
+Flucytosine
+Énalapril maléate
+Métoclopramide chlorhydrate
+Fer (fumarate ferreux)
+Sorafénib (tosilate)
+Nomégestrol acétate
+Acétazolamide
+Acide acétylsalicylique (sel de lysine)
+Tiadénol
+Bétaïne
+Nomégestrol acétate
+Béclométasone dipropionate
+Duloxétine (chlorhydrate)
+Duloxétine (chlorhydrate)
+Sodium hyaluronate
+Hypromellose
+Sélénium (sélénite de sodium)
+Sélénium (sélénite de sodium)
+Séléno-levure
+Clofarabine
+Escitalopram (oxalate)
+Cétylpyridinium chlorure
+L-cystine
+Éthanol
+Tadalafil
+Tadalafil
+Calcium bromogalactogluconate
+Exénatide
+Exénatide
+Sitagliptine (phosphate)
+Temsirolimus
+Nicotine (tartrate)
+Lévothyroxine sodique
+Valproate de sodium
+Acide alendronique (sel monosodique)
+Artéméther
+Ropinirole (chlorhydrate)
+Ropinirole (chlorhydrate)
+Ropinirole (chlorhydrate)
+Acide folinique (sel de calcium)
+Trabectédine
+Trabectédine
+Éphédrine chlorhydrate
+Étravirine
+Ipratropium bromure
+Adapalène
+Éthylmorphine chlorhydrate
+Leuproréline acétate
+Tacrolimus
+Tacrolimus
+Tacrolimus
+Triclocarban
+Méthotrexate
+Méthotrexate
+Kétamine (chlorhydrate)
+Kétamine (chlorhydrate)
+Lauromacrogol
+Lauromacrogol
+Lauromacrogol
+Lauromacrogol
+Nilotinib (chlorhydrate)
+Entécavir
+Rivastigmine
+Rivastigmine
+Mécasermine
+Fludarabine phosphate
+Vindésine sulfate
+Ambroxol chlorhydrate
+Méthadone chlorhydrate
+Méthadone chlorhydrate
+Méthadone chlorhydrate
+Méthadone chlorhydrate
+Méthadone chlorhydrate
+Fer (hydroxyde ferrique-dextran)
+Mélatonine
+Aripiprazole
+Topotécane (chlorhydrate)
+Topotécane (chlorhydrate)
+Charbon activé
+Charbon activé
+Charbon activé
+Cytarabine
+Alprostadil
+Alprostadil
+Alprostadil
+Chlorhexidine gluconate
+Rizatriptan (benzoate)
+Rizatriptan (benzoate)
+Pémétrexed (disodique)
+Paracétamol
+Bromazépam
+Succimer
+Lévétiracétam
+Phényléphrine (chlorhydrate)
+Méropénem
+Montélukast (sel de Na)
+Montélukast (sel de Na)
+Topiramate
+Acide ascorbique
+Fluor (fluorure de calcium)
+Paracétamol
+Irinotécan chlorhydrate
+Ispaghul graine
+Tamsulosine chlorhydrate
+Paraffine liquide
+Esters éthyliques d'acides oméga
+Risédronate sodique
+Calcium édétate de sodium
+Alcool dichlorobenzylique
+Acide acétylsalicylique
+Acide
+Leuproréline acétate
+Perméthrine
+Chlorphénamine maléate
+Lopinavir
+Glucosamine (chlorhydrate)
+Oséltamivir (phosphate)
+Oséltamivir (phosphate)
+Atazanavir (sulfate)
+Bicarbonate de sodium
+Lacosamide
+Lacosamide
+Lacosamide
+Ziconotide (acétate)
+Calcium acétate
+Acétylcystéine
+Zofénopril calcique
+Zofénopril calcique
+Aciclovir
+Acide clavulanique (sel de K)
+Tasonermine
+Telbivudine
+Témozolomide
+Témozolomide
+Tobramycine
+Tramadol chlorhydrate
+Desloratadine
+Alcool dichlorobenzylique
+Alcool dichlorobenzylique
+Clopidogrel (hydrogénosulfate)
+Zidovudine
+Dompéridone
+Maraviroc
+Maraviroc
+Clobétasol propionate
+Buprénorphine (chlorhydrate)
+Buprénorphine (chlorhydrate)
+Buprénorphine (chlorhydrate)
+Calcium (carbonate)
+Lidocaïne (chlorhydrate)
+Lidocaïne (chlorhydrate)
+Hydrotalcite
+Micafungine sodique
+Micafungine sodique
+Sugammadex (sodique)
+Hydrochlorothiazide
+Carbidopa
+Azithromycine
+Rufinamide
+Rufinamide
+Rufinamide
+Oxycodone chlorhydrate
+Dabigatran étexilate (mésilate)
+Dabigatran étexilate (mésilate)
+Ambrisentan
+Ambrisentan
+Métronidazole (benzoate)
+Mométasone furoate
+Mométasone furoate
+Acide acétylsalicylique
+Moxifloxacine (chlorhydrate)
+Béclométasone dipropionate
+Calcium gluconate
+Escitalopram (oxalate)
+Céfuroxime (sel de Na)
+Ibuprofène
+Étoricoxib
+Ciclésonide
+Ciclésonide
+Doxorubicine chlorhydrate
+Calcium dobésilate
+Nicotine (résinate)
+Nicotine (résinate)
+Dacarbazine
+Déféroxamine mésilate
+Amiloride chlorhydrate
+Racécadotril
+Laronidase
+Amlodipine (bésilate)
+Amlodipine (bésilate)
+Amlodipine (bésilate)
+Valproate de sodium
+Valproate de sodium
+Venlafaxine (chlorhydrate)
+Venlafaxine (chlorhydrate)
+Venlafaxine (chlorhydrate)
+Bortézomib
+Hydrocortisone acétate
+Énalapril maléate
+Calcium glycérophosphate
+Rasagiline (mésilate)
+Valganciclovir (chlorhydrate)
+Urokinase
+Vildagliptine
+Tétracosactide
+Palonosétron (chlorhydrate)
+Mésalazine
+Arginine aspartate
+Mémantine chlorhydrate
+Saproptérine chlorhydrate
+Efavirenz
+Quétiapine (fumarate)
+Quétiapine (fumarate)
+Quétiapine (fumarate)
+Périndopril arginine
+Périndopril arginine
+Morphine sulfate
+Lévosimendan
+Buprénorphine (chlorhydrate)
+Buprénorphine (chlorhydrate)
+Mirtazapine
+Cytarabine
+Cytarabine
+Clobétasol propionate
+Bléomycine (sulfate)
+Rupatadine (fumarate)
+Ésoméprazole (magnésium)
+Magnésium (lactate)
+Thiamazol
+Éthinylestradiol
+Rivaroxaban
+Metformine chlorhydrate
+Phosphate disodique
+Fluticasone propionate
+Venlafaxine (chlorhydrate)
+Clotrimazole
+Clotrimazole
+Alfacalcidol
+Fluocinolone acétonide
+Hydrocotyle extrait
+Polystyrène sulfonate de sodium
+Sitagliptine (phosphate)
+Défériprone
+Iloprost (trométamol)
+Fluor (fluorure de sodium)
+Fénotérol bromhydrate
+Doripénem
+Glucosamine sulfate (chlorure de sodium)
+Acide ascorbique
+Méthylnaltrexone bromure
+Ibuprofène
+Codéine phosphate
+Ciclosporine
+Fluorure de sodium
+Lopéramide chlorhydrate
+Indométacine
+Metformine chlorhydrate
+Triptoréline (acétate)
+Dexkétoprofène (trométamol)
+Ibuprofène (lysinate)
+Fosinopril sodique
+Fosinopril sodique
+Fluticasone furoate
+Promestriène
+Périndopril arginine
+Azacitidine
+Nicotine (résinate)
+Gemcitabine (chlorhydrate)
+Brinzolamide
+Fentanyl (citrate)
+Fentanyl (citrate)
+Fentanyl (citrate)
+Fentanyl (citrate)
+Fentanyl (citrate)
+Fentanyl (citrate)
+Darunavir (éthanolate)
+Orlistat
+Calcium (polystyrène sulfonate de calcium)
+Indapamide
+Indapamide
+Cétirizine dichlorhydrate
+Formotérol fumarate
+Fludrocortisone (acétate)
+Nicotinamide
+Metformine chlorhydrate
+Metformine chlorhydrate
+Metformine chlorhydrate
+Acide ascorbique
+Acide ascorbique
+Aluminium hydroxyde
+Calcium carbonate
+Progestérone
+Alcool isopropylique
+Dexaméthasone m-sulfobenzoate sel de Na
+Aluminium phosphate
+Aluminium phosphate
+Famciclovir
+Gemcitabine (chlorhydrate)
+Aliskirène (fumarate)
+Aliskirène (fumarate)
+Crospovidone
+Indigotine
+Dexmédétomidine (chlorhydrate)
+Dasatinib
+Rizatriptan (benzoate)
+Propofol
+Géfitinib
+Lymécycline
+Ciclopirox
+Népafénac
+Dextrométhorphane bromhydrate
+Paracétamol
+Tacrolimus
+Glycérol
+Glycérol
+Acide ascorbique
+Glycérol
+Glycérol
+Glycérol
+Acide acétylsalicylique
+Ulipristal acétate
+Pentosane polysulfate
+Sodium tétradécyl sulfate
+Chlorhexidine gluconate
+Cétrimide
+Chlorhexidine gluconate
+Carbidopa
+Carbidopa
+Darunavir (éthanolate)
+Énoxolone
+Hydroxycarbamide
+Ibuprofène (lysinate)
+Thiamazol
+Thiamazol
+Évérolimus
+Évérolimus
+Oxycodone chlorhydrate
+Lacosamide
+Lacosamide
+Ibuprofène
+Oxycodone chlorhydrate
+Oxycodone chlorhydrate
+Oxycodone chlorhydrate
+Eptotermine alfa
+Acide acétylsalicylique
+Ispaghul tégument
+Ispaghul tégument
+Ispaghul tégument
+Hydrochlorothiazide
+Hydrochlorothiazide
+Acide ténoïque (sel de Na)
+Aliskirène (fumarate)
+Aliskirène (fumarate)
+Aliskirène (fumarate)
+Cinchocaïne chlorhydrate
+Cinchocaïne chlorhydrate
+Alitrétinoïne
+Alitrétinoïne
+Acide ascorbique
+Prasugrel (chlorhydrate)
+Escitalopram (oxalate)
+Méthoxsalène
+Olanzapine (embonate)
+Olanzapine (embonate)
+Olanzapine (embonate)
+Tacrolimus
+Tacrolimus
+Fentanyl (citrate)
+Fentanyl (citrate)
+Fentanyl (citrate)
+Clopidogrel (chlorhydrate)
+Clopidogrel (bésilate)
+Acide acétylsalicylique
+Acide acétylsalicylique
+Potassium iodure
+Acide acétylsalicylique
+Ondansétron
+Triptoréline (embonate)
+Fentanyl (citrate)
+Fentanyl (citrate)
+Fentanyl (citrate)
+Fentanyl (citrate)
+Fentanyl (citrate)
+Fébuxostat
+Fébuxostat
+Dégarélix acétate
+Dégarélix acétate
+Étoricoxib
+Saxagliptine (chlorhydrate)
+Icatibant (acétate)
+Agomélatine
+Urokinase
+Plérixafor
+Pramipexole (dichlorhydrate)
+Pramipexole (dichlorhydrate)
+Pramipexole (dichlorhydrate)
+Pramipexole (dichlorhydrate)
+Bicarbonate de sodium
+Lévonorgestrel
+Azithromycine
+Diosmine
+Céfadroxil
+Acide acétylsalicylique
+Sévélamer chlorhydrate
+Diclofénac sodique
+Diclofénac sodique
+Valpromide
+Docétaxel
+Acide acétylsalicylique
+Tocofersolan
+Benzalkonium chlorure
+Liraglutide
+Docosanol
+Bimatoprost
+Darunavir (éthanolate)
+Darunavir (éthanolate)
+Ritonavir
+Metformine chlorhydrate
+Metformine chlorhydrate
+Metformine chlorhydrate
+Acide acétylsalicylique (sel de lysine)
+Bosentan
+Kétoprofène
+Phosphate disodique
+Dexaméthasone (acétate)
+Béclométasone dipropionate
+Béclométasone dipropionate
+Sodium tétradécyl sulfate
+Méglumine benzoate
+Méthotrexate
+Amlodipine (bésilate)
+Amlodipine (bésilate)
+Amlodipine (bésilate)
+Amlodipine (bésilate)
+Rotigotine
+Rotigotine
+Rotigotine
+Rotigotine
+Prilocaïne chlorhydrate
+Témozolomide
+Vinflunine (ditartrate)
+Oméprazole (magnésium)
+Décitabine
+Galsulfase
+Hydrochlorothiazide
+Hydrochlorothiazide
+Topotécane (chlorhydrate)
+Acide para-aminosalicylique
+Colchicine
+Glucosamine sulfate (chlorure de sodium)
+Indacatérol (maléate)
+Indacatérol (maléate)
+Adrénaline (tartrate)
+Adrénaline (tartrate)
+Gemcitabine (chlorhydrate)
+Calcium (carbonate)
+Nicotine
+Cétalkonium chlorure
+Lidocaïne chlorhydrate
+Acide ténoïque sel d'éthanolamine
+Bismuth sous-succinate
+Bismuth sous-succinate
+Dronédarone (chlorhydrate)
+Tipranavir
+Acide ténoïque sel d'éthanolamine
+Aluminium hydroxyde
+Bendamustine chlorhydrate
+Eltrombopag (olamine)
+Eltrombopag (olamine)
+Aztréonam
+Complexe osséine-hydroxyapatite
+Urokinase
+Chlorphénamine maléate
+Chlorphénamine maléate
+Bendrofluméthiazide
+Acide citrique
+Charbon activé
+Acide ascorbique
+Charbon activé
+Dexaméthasone acétate
+Acide salicylique
+Acide salicylique
+Caféine
+Caféine
+Caféine
+Acide ascorbique
+Perméthrine
+Codéine
+Éthacridine (lactate)
+Cuivre sulfate
+Codéine (phosphate)
+Acétylcystéine
+Isoniazide
+Cholestérol benzoate
+Framycétine sulfate
+Métronidazole
+Tidiacic arginine
+Codéine
+Codéine
+Arsenic trioxyde
+Paracétamol
+Arginine chlorhydrate
+Hexamidine di-isétionate
+Aluminium hydroxyde
+Biclotymol
+Caféine
+Acide undécylénique
+Acide undécylénique
+Acide undécylénique
+Phosphate disodique
+Hydrocortisone acétate
+Lidocaïne chlorhydrate
+Néomycine sulfate
+Codéine
+Malathion
+Dépalléthrine
+Dépalléthrine
+Amyléine chlorhydrate
+Sodium benzoate
+Calcium carbonate
+Dexaméthasone acétate
+Dexaméthasone
+Cétylpyridinium chlorure
+Dexaméthasone phosphate sodique
+Citrate monosodique
+Bêta-alanine
+Citrate dipotassique
+Glycérol
+Acide propionique
+Chlorobutanol
+Montmorillonite beidellitique
+Alcool benzylique
+Chlorhexidine acétate
+Charbon activé
+Acide ascorbique
+Bicarbonate de sodium
+Bicarbonate de sodium
+Chlorocrésol
+Camphre
+Acide acétylsalicylique
+Lysozyme chlorhydrate
+Codéine camsilate
+Codéine camsilate
+Acide ascorbique
+Camphre
+Dexaméthasone acétate
+Sodium citrate
+Sodium citrate
+Fluorure de calcium
+Indapamide
+Aluminium glycinate
+Silodosine
+Silodosine
+Gliclazide
+Losartan potassique
+Glycérol
+Glycérol
+Glycérol
+Terlipressine acétate
+Acide citrique
+Citrulline malate
+Capsaïcine
+Dutastéride
+Atropine sulfate
+Pentétate de calcium trisodique
+Sévélamer carbonate
+Sévélamer carbonate
+Bétaméthasone (dipropionate)
+Fluorure de sodium
+Fluorure de sodium
+N(
+Paracétamol
+Paracétamol
+Amorolfine chlorhydrate
+Ciclopirox
+Oxycodone chlorhydrate
+Dapoxétine
+Dapoxétine
+Amlodipine (bésilate)
+Amlodipine (bésilate)
+Amlodipine (bésilate)
+Amlodipine (bésilate)
+Fésotérodine fumarate
+Fésotérodine fumarate
+Pholcodine
+Méthylthioninium chlorure
+Vardénafil (chlorhydrate)
+Chlorobutanol
+Amifampridine (phosphate)
+Paraffine liquide
+Témocilline (sodique)
+Témocilline (sodique)
+Ispaghul tégument
+Lactulose
+Fer (carboxymaltose ferrique)
+Pazopanib (chlorhydrate)
+Pazopanib (chlorhydrate)
+Docétaxel
+Glucosamine (chlorhydrate)
+Doripénem
+Dexkétoprofène (trométamol)
+Dexkétoprofène (trométamol)
+Diénogest
+Diclofénac épolamine
+Diclofénac sodique
+Télaprévir
+Bocéprévir
+Ticagrélor
+Pyridostigmine bromure
+Fosfomycine (disodique)
+Fosfomycine (disodique)
+Alcool isopropylique
+Dexrazoxane (chlorhydrate)
+Acide ascorbique
+Acide ascorbique (sel de Mg)
+Dacarbazine (citrate)
+Dexaméthasone
+Méthylphénidate chlorhydrate
+Gentamicine (sulfate)
+Gentamicine (sulfate)
+Alun de chrome
+Codéine phosphate
+Codéine phosphate
+Nilotinib (chlorhydrate)
+Ésoméprazole (magnésium)
+Ésoméprazole (magnésium)
+Épirubicine chlorhydrate
+Octréotide (acétate)
+Carboplatine
+Trandolapril
+Ondansétron
+Ondansétron
+Ispaghul tégument
+Carbocistéine
+Cabazitaxel
+Ciprofloxacine (chlorhydrate)
+Ibuprofène (lysinate)
+Éthanol
+Dextrométhorphane
+Aripiprazole
+Potassium chlorure
+Oméprazole
+Sirolimus
+Lidocaïne chlorhydrate
+Hydroxocobalamine
+Hydroxycarbamide
+Anidulafungine
+Bilastine
+Fentanyl (citrate)
+Abiratérone acétate
+Clotrimazole
+Défériprone
+Valsartan
+Dabigatran étexilate (mésilate)
+Lacosamide
+Boldine
+Cobalt gluconate
+Cuivre (gluconate)
+Tafluprost
+Drospirénone
+Dexkétoprofène (trométamol)
+Tafamidis méglumine
+Dasatinib
+Dompéridone
+Idarubicine chlorhydrate
+Tolvaptan
+Tolvaptan
+Glibenclamide
+Fingolimod (chlorhydrate)
+Argatroban
+Paracétamol
+Paraffine liquide
+Apomorphine chlorhydrate
+Vaseline
+Urée
+Palipéridone (palmitate)
+Palipéridone (palmitate)
+Palipéridone (palmitate)
+Palipéridone (palmitate)
+Palipéridone (palmitate)
+Tobramycine
+Névirapine
+Névirapine
+Rétigabine
+Rétigabine
+Rétigabine
+Rétigabine
+Rétigabine
+Acide spaglumique sel de Na
+Eslicarbazépine acétate
+Amikacine (sulfate)
+Hydroxyprogestérone caproate
+Éribuline (mésilate)
+Pentoxyvérine citrate
+Amikacine (sulfate)
+Indapamide
+Évérolimus
+Prucalopride (succinate)
+Prucalopride (succinate)
+Hexamidine di-isétionate
+Asénapine (maléate)
+Asénapine (maléate)
+Gélatine fluide modifiée
+Phloroglucinol
+Ébastine
+Rizatriptan (benzoate)
+Dacarbazine (citrate)
+Histamine dichlorhydrate
+Atorvastatine (calcique)
+Diclofénac diéthylamine
+Vémurafénib (succinate d'acétate d'hypromellose)
+Nicotine (résinate)
+Paclitaxel albumine
+Phényléphrine (chlorhydrate)
+Phényléphrine (chlorhydrate)
+Charbon activé
+Étravirine
+Mésalazine
+Rilpivirine (chlorhydrate)
+Phloroglucinol
+Nicotine (bétadex)
+Acide ursodésoxycholique
+Cobalt (gluconate)
+Rivaroxaban
+Rivaroxaban
+Arténimol
+Crizotinib
+Crizotinib
+Gemcitabine (chlorhydrate)
+Atorvastatine (calcique)
+Acide ténoïque sel d'éthanolamine
+Vandétanib
+Gonadoréline acétate
+Apixaban
+Lidocaïne
+Kétoprofène
+Pirfénidone
+Inosine acédobène dimépranol
+Acide zolédronique
+Fampridine
+Oxycodone chlorhydrate
+Oxycodone chlorhydrate
+Oxycodone chlorhydrate
+Emtricitabine
+Pasiréotide (diaspartate)
+Pasiréotide (diaspartate)
+Pasiréotide (diaspartate)
+Dexaméthasone acétate
+Triphosadénine (disodique)
+Zinc oxyde
+Céfuroxime (sel de Na)
+Propranolol (chlorhydrate)
+Ivacaftor
+Pomalidomide
+Pomalidomide
+Pomalidomide
+Pomalidomide
+Ruxolitinib (phosphate)
+Ruxolitinib (phosphate)
+Ruxolitinib (phosphate)
+Bromfénac (sodique)
+Oséltamivir (phosphate)
+Céfazoline (sodique)
+Midazolam (chlorhydrate)
+Midazolam (chlorhydrate)
+Midazolam (chlorhydrate)
+Midazolam (chlorhydrate)
+Crisantaspase
+Timolol (maléate)
+Timolol (maléate)
+Fidaxomicine
+Bismuth subcitrate potassium
+Glucose phosphate disodique
+Ifosfamide
+Lopéramide chlorhydrate
+Metformine chlorhydrate
+Sildénafil (citrate)
+Estriol
+Thiotépa
+Thiotépa
+Tilbroquinol
+Axitinib
+Axitinib
+Adrénaline (tartrate)
+Adrénaline (tartrate)
+Héparine sodique
+Prégabaline
+Vandétanib
+Ulipristal acétate
+Dropéridol
+Régorafénib
+Baclofène
+Chlorphénamine maléate
+Biclotymol
+Biclotymol
+Triglycérides d'acides oméga
+Pyridostigmine bromure
+Ceftaroline fosamil
+Enzalutamide
+Acide
+Darunavir (éthanolate)
+Darunavir (éthanolate)
+Cuivre (gluconate)
+Céfazoline (sodique)
+Calcium carbonate
+Carbidopa
+Méthotrexate (sodique)
+Méthotrexate (sodique)
+Méthotrexate (sodique)
+Méthotrexate (sodique)
+Méthotrexate (sodique)
+Daunorubicine (chlorhydrate)
+Rufinamide
+Kétoprofène
+Cloxacilline (sodique)
+Tramadol chlorhydrate
+Tramadol chlorhydrate
+Tramadol chlorhydrate
+Lanthane (carbonate)
+Lidocaïne
+Ondansétron
+Glycopyrronium (bromure)
+Ondansétron
+Chloroprocaïne chlorhydrate
+Acide citrique
+Nicotine
+Ceftazidime
+Ceftazidime
+Bosutinib
+Bosutinib
+Étravirine
+Lanthane (carbonate)
+Hydrocortisone (hémisuccinate)
+Sildénafil
+Sildénafil
+Fluocinolone acétonide
+Codéine camsilate
+Mirabégron
+Mirabégron
+Dropéridol
+Rupatadine (fumarate)
+Lévétiracétam
+Lévétiracétam
+Lévétiracétam
+Lévétiracétam
+Exénatide
+Vismodégib
+Pixantrone (dimaléate)
+Ingénol mébutate
+Ingénol mébutate
+Rizatriptan (benzoate)
+Régadénoson
+Méthoxyflurane
+Minoxidil
+Dabrafénib (mésilate)
+Dabrafénib (mésilate)
+Acide ascorbique
+Fluticasone propionate
+Ponatinib (chlorhydrate)
+Ponatinib (chlorhydrate)
+Ocriplasmine
+Fluticasone propionate
+Lévonorgestrel
+Néostigmine méthylsulfate
+Pérampanel
+Pérampanel
+Pérampanel
+Pérampanel
+Pérampanel
+Pérampanel
+Atropine sulfate
+Lénalidomide
+Raltégravir (potassique)
+Raltégravir (potassique)
+Misoprostol
+Afatinib (dimaléate)
+Afatinib (dimaléate)
+Afatinib (dimaléate)
+Afatinib (dimaléate)
+Apixaban
+Béclométasone dipropionate
+Nalméfène (chlorhydrate)
+Dexrazoxane (chlorhydrate)
+Mercaptamine (chlorhydrate)
+Lidocaïne chlorhydrate
+Sofosbuvir
+Diméthyle fumarate
+Diméthyle fumarate
+Fentanyl (citrate)
+Fentanyl (citrate)
+Fentanyl (citrate)
+Acide ascorbique
+Dolutégravir (sodique)
+Brimonidine tartrate
+Calcium (carbonate)
+Rifaximine
+Avanafil
+Avanafil
+Avanafil
+Siméprévir (sodique)
+Tériflunomide
+Bédaquiline (fumarate)
+Acide cholique
+Acide cholique
+Daclatasvir (chlorhydrate)
+Daclatasvir (chlorhydrate)
+Riociguat
+Riociguat
+Riociguat
+Riociguat
+Riociguat
+Clindamycine (phosphate)
+Paracétamol
+Paracétamol
+Paracétamol
+Loxapine
+Ténofovir disoproxil (fumarate)
+Ténofovir disoproxil (fumarate)
+Ténofovir disoproxil (fumarate)
+Ciprofloxacine (chlorhydrate)
+Ténofovir disoproxil (fumarate)
+Tramadol chlorhydrate
+Tramadol chlorhydrate
+Estradiol
+Mesna
+Amlodipine (bésilate)
+Amlodipine (bésilate)
+Évérolimus
+Évérolimus
+Évérolimus
+Clopidogrel (bromhydrate)
+Amikacine (sulfate)
+Uméclidinium (bromure)
+Uméclidinium (bromure)
+Vortioxétine (bromhydrate)
+Vortioxétine (bromhydrate)
+Vortioxétine (bromhydrate)
+Vortioxétine (bromhydrate)
+Fluticasone furoate
+Axitinib
+Axitinib
+Idélalisib
+Idélalisib
+Glycopyrronium (bromure)
+Cétylpyridinium chlorure
+Pitolisant chlorhydrate
+Chlorhexidine gluconate
+Riluzole
+Ibrutinib
+Iloprost (trométamol)
+Clévidipine
+Trandolapril
+Aripiprazole
+Aripiprazole
+Olaparib
+Défibrotide
+Ceftobiprole (médocaril sodique)
+Urée
+Fluor (fluorure de sodium)
+Ergocalciférol
+Céritinib
+Noradrénaline bitartrate
+Noradrénaline bitartrate
+Posaconazole
+Méthylphénidate chlorhydrate
+Méthylphénidate chlorhydrate
+Méthylphénidate chlorhydrate
+Estradiol
+Estradiol
+Estradiol
+Estradiol
+Glatiramère acétate
+Rasagiline (tartrate)
+Tramétinib (diméthylsulfoxyde)
+Tramétinib (diméthylsulfoxyde)
+Cefpodoxime (proxétil)
+Acide borique
+Périndopril tosilate
+Périndopril tosilate
+Périndopril tosilate
+Fraction flavonoïque purifiée micronisée
+Lédipasvir
+Mercaptopurine
+Carbomère
+Carbomère
+Cuivre (gluconate)
+Bismuth (gluconate)
+Fluor (fluorure de sodium)
+Cuivre (gluconate)
+Cobalt (gluconate)
+Dextrométhorphane bromhydrate
+Dextrométhorphane bromhydrate
+Ispaghul tégument
+Ispaghul tégument
+Ombitasvir
+Dasabuvir (sodique)
+Paraffine liquide
+Diméticone
+Acide salicylique
+Acide salicylique
+Kétotifène (fumarate)
+Cétylpyridinium chlorure
+Lodoxamide (trométamol)
+Timolol (maléate)
+Timolol (maléate)
+Atropine sulfate
+Phényléphrine chlorhydrate
+Dorzolamide (chlorhydrate)
+Alcool polyvinylique
+Lévobunolol chlorhydrate
+Cyanocobalamine
+Acide cromoglicique sel de Na
+Povidone
+Cartéolol chlorhydrate
+Cartéolol chlorhydrate
+Indométacine
+Ofloxacine
+Diclofénac sodique
+Abacavir (sulfate)
+Oxybuprocaïne chlorhydrate
+Bétaxolol (chlorhydrate)
+Latanoprost
+Céthexonium bromure
+Tropicamide
+Biclotymol
+Tacrolimus
+Lévocabastine (chlorhydrate)
+Carbomère
+Sodium chlorure
+Sodium chlorure
+Acide spaglumique sel de Na
+Flurbiprofène sel de Na
+Picloxydine dichlorhydrate
+Sterculia gomme
+Tacrolimus
+Tacrolimus
+Tacrolimus
+Atorvastatine (calcique)
+Atorvastatine (calcique)
+Atorvastatine (calcique)
+Atorvastatine (calcique)
+Méthylphénidate chlorhydrate
+Méthylphénidate chlorhydrate
+Colistiméthate sodique
+Phényléphrine chlorhydrate
+Indapamide
+Indapamide
+Nicotinamide
+Nintédanib (ésilate)
+Nintédanib (ésilate)
+Mitomycine
+Brimonidine tartrate
+Cobalt (gluconate)
+Argent (gluconate)
+Sodium sulfosilicoaluminate
+Desmopressine acétate
+Énalapril maléate
+Alprostadil
+Fentanyl (citrate)
+Adrénaline
+Adrénaline
+Ivermectine
+Dydrogestérone
+Dydrogestérone
+Dulaglutide
+Dulaglutide
+Posaconazole
+Atropine sulfate
+Tédizolid phosphate
+Tédizolid phosphate (disodique)
+Lenvatinib (mésilate)
+Lenvatinib (mésilate)
+Amlodipine (bésilate)
+Amlodipine (bésilate)
+Amlodipine (bésilate)
+Amlodipine (bésilate)
+Phosphate disodique
+Progestérone
+Pasiréotide (embonate)
+Pasiréotide (embonate)
+Pasiréotide (embonate)
+Ribavirine
+Benzoate de benzyle
+Éthinylestradiol
+Diosmectite
+Ambroxol chlorhydrate
+Ruxolitinib (phosphate)
+Palbociclib
+Palbociclib
+Palbociclib
+Bazédoxifène (acétate)
+Panobinostat (lactate)
+Panobinostat (lactate)
+Panobinostat (lactate)
+Paracétamol
+Paracétamol
+Ataluren
+Ataluren
+Ataluren
+Ceftolozane (sulfate)
+Méthotrexate (sodique)
+Méthotrexate (sodique)
+Méthotrexate (sodique)
+Méthotrexate (sodique)
+Méthotrexate (sodique)
+Méthotrexate (sodique)
+Méthotrexate (sodique)
+Méthotrexate (sodique)
+Acide alendronique (sel monosodique)
+Foie de poisson huile
+Lactulose
+Bimatoprost
+Érythromycine (lactobionate)
+Fer(oxyhydroxyde sucro-ferrique)
+Aprémilast
+Tapentadol (chlorhydrate)
+Tapentadol (chlorhydrate)
+Tapentadol (chlorhydrate)
+Ivacaftor
+Potassium canrénoate
+Potassium canrénoate
+Acide DL-malique
+Isavuconazonium (sulfate)
+Isavuconazonium (sulfate)
+Phentolamine mésilate
+Sacubitril
+Sacubitril
+Sacubitril
+Éphédrine chlorhydrate
+Colistiméthate sodique
+Aripiprazole
+Bicarbonate de sodium
+Osimertinib mésilate
+Osimertinib mésilate
+Azélastine chlorhydrate
+Ritonavir
+Macrogol
+Clobazam
+Sufentanil (citrate)
+Sélexipag
+Sélexipag
+Sélexipag
+Sélexipag
+Sélexipag
+Sélexipag
+Sélexipag
+Sélexipag
+Alprostadil (alfadex)
+Alprostadil (alfadex)
+Raltégravir (potassique)
+Pitolisant chlorhydrate
+Délamanid
+Lidocaïne chlorhydrate
+Atropine sulfate
+Lidocaïne chlorhydrate
+Méthotrexate
+Méthotrexate
+Méthotrexate
+Méthotrexate
+Méthotrexate
+Méthotrexate
+Méthotrexate
+Méthotrexate
+Méthotrexate
+Méthotrexate
+Fluor (fluorure de sodium)
+Budésonide
+Emtricitabine
+Emtricitabine
+Budésonide
+Polyfructosan
+Ponatinib (chlorhydrate)
+Vénétoclax
+Vénétoclax
+Vénétoclax
+Lidocaïne chlorhydrate
+Béclométasone dipropionate
+Cabozantinib (malate)
+Cabozantinib (malate)
+Cabozantinib (malate)
+Ivacaftor
+Nitisinone
+Béclométasone dipropionate
+Lamotrigine
+Lamotrigine
+Lamotrigine
+Lamotrigine
+Palipéridone (palmitate)
+Palipéridone (palmitate)
+Palipéridone (palmitate)
+Palipéridone (palmitate)
+Elbasvir
+Adrénaline (tartrate)
+Tipiracil (chlorhydrate)
+Tipiracil (chlorhydrate)
+Méthotrexate
+Méthotrexate
+Méthotrexate
+Méthotrexate
+Méthotrexate
+Méthotrexate
+Méthotrexate
+Méthotrexate
+Avibactam (sodique)
+Dexkétoprofène
+Cytarabine
+Cytarabine
+Ganciclovir (sodique)
+Ivacaftor
+Acide obéticholique
+Acide obéticholique
+Paracétamol
+Bisoprolol hémifumarate
+Bisoprolol hémifumarate
+Bisoprolol hémifumarate
+Bisoprolol hémifumarate
+Cangrélor (tétrasodique)
+Glucose
+Glucose
+Chlore actif (sodium hypochlorite)
+Crospovidone
+Sodium chlorure
+Nitisinone
+Rosuvastatine (zinc)
+Rosuvastatine (zinc)
+Rosuvastatine (zinc)
+Sofosbuvir
+Fer (sulfate ferreux)
+Déféroxamine mésilate
+Lanréotide (acétate)
+Midazolam (chlorhydrate)
+Budésonide
+Cortivazol
+Testostérone
+Kétoconazole
+Octréotide (acétate)
+Lévobupivacaïne (chlorhydrate)
+Midazolam (chlorhydrate)
+Terbinafine (chlorhydrate)
+Lactulose
+Béclométasone dipropionate
+Bicarbonate de sodium
+Cisatracurium (bésilate)
+Doxorubicine chlorhydrate
+Lanréotide (acétate)
+Lanréotide (acétate)
+Octréotide (acétate)
+Béclométasone dipropionate
+Estradiol
+Octréotide (acétate)
+Budésonide
+Midazolam
+Benzydamine chlorhydrate
+Imiquimod
+Bicarbonate de sodium
+Docusate sodique
+Lévobupivacaïne (chlorhydrate)
+Glycérol
+Cisatracurium (bésilate)
+Midazolam
+Testostérone
+Tiotropium (bromure)
+Acide chénodésoxycholique
+Dexaméthasone
+Baume du Pérou
+Camphre
+Camphre
+Pégaspargase
+Soja huile
+Éthosuximide
+Lactulose
+Lactulose
+Ispaghul tégument
+Tofacitinib (citrate)
+Olodatérol (chlorhydrate)
+Estradiol
+Kétoconazole
+Bicarbonate de potassium
+Olodatérol (chlorhydrate)
+Ispaghul tégument
+Budésonide
+Dalbavancine (chlorhydrate)
+Timolol (maléate)
+Fentanyl (citrate)
+Fentanyl (citrate)
+Fentanyl (citrate)
+Fentanyl (citrate)
+Fentanyl (citrate)
+Captopril
+Captopril
+Naloxone chlorhydrate
+Adapalène
+Naloxégol (oxalate)
+Naloxégol (oxalate)
+Bupivacaïne chlorhydrate
+Povidone iodée
+Povidone iodée
+Éthanol
+Potassium chlorure
+Dolutégravir (sodique)
+Dolutégravir (sodique)
+Glycérol
+Triméthoprime
+Ixazomib (citrate)
+Ixazomib (citrate)
+Ixazomib (citrate)
+Adrénaline (tartrate)
+Diménhydrinate
+Idébénone
+Calcium (carbonate)
+Ételcalcétide (chlorhydrate)
+Ételcalcétide (chlorhydrate)
+Ételcalcétide (chlorhydrate)
+Somatostatine
+Somatostatine
+Somatostatine
+Abacavir (chlorhydrate)
+Terlipressine acétate
+Bétaméthasone (dipropionate)
+Ténofovir disoproxil (maléate)
+Ténofovir disoproxil (phosphate)
+Ténofovir disoproxil (succinate)
+Emtricitabine
+Emtricitabine
+Kétoprofène
+Baricitinib
+Baricitinib
+Benzocaïne
+Nusinersen (sodique) 
+Lauromacrogol
+Lénalidomide
+Lénalidomide
+Déférasirox
+Déférasirox
+Rasagiline (bésilate)
+Nétupitant
+Palivizumab
+Midostaurine
+Avélumab
+Ustékinumab
+Fraction flavonoïque purifiée micronisée
+Emtricitabine
+Abacavir
+Rolapitant (chlorhydrate)
+Mercaptamine (chlorhydrate)
+Esmolol chlorhydrate
+Sonidégib (phosphate)
+Gentamicine (sulfate)
+Pasiréotide (embonate)
+Pasiréotide (embonate)
+Doxorubicine chlorhydrate
+Doxorubicine chlorhydrate
+Mercaptamine (bitartrate)
+Mercaptamine (bitartrate)
+Ticagrélor
+Aluminium hydroxyde
+Acide ascorbique
+Acide ascorbique
+Nilotinib (chlorhydrate)
+Lévétiracétam
+Lévonorgestrel
+Testostérone
+Hydrocortisone (phosphate sodique)
+Sodium chondroïtine sulfate
+Emtricitabine
+Glécaprévir
+Risédronate monosodique
+Cladribine
+Povidone iodée
+Lactulose
+Efavirenz
+Colistiméthate sodique
+Dexaméthasone phosphate (sodique)
+Colistiméthate sodique
+Thiopental sodique
+Thiopental sodique
+Abiratérone acétate
+Irinotécan chlorhydrate liposomal pégylé
+Asfotase alfa
+Asfotase alfa
+Hexétidine
+Irbésartan (chlorhydrate)
+Acide ascorbique
+Irbésartan (chlorhydrate)
+Irbésartan (chlorhydrate)
+Hydrochlorothiazide
+Hydrochlorothiazide
+Hydrochlorothiazide
+Lidocaïne
+Ciprofloxacine (sulfate)
+Acide ursodésoxycholique
+Leuproréline (acétate)
+Aprépitant
+Ciclosporine
+Efavirenz
